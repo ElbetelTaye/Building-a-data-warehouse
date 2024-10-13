@@ -1,0 +1,30 @@
+2024-10-13 17:21:28,033 - INFO - Processing file: C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/scrapped_json_files\CheMed123_messages.json
+2024-10-13 17:21:28,052 - INFO - Successfully loaded data from C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/scrapped_json_files\CheMed123_messages.json
+2024-10-13 17:21:28,058 - INFO - Data cleaning completed.
+2024-10-13 17:21:28,062 - INFO - Cleaned data saved to C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/cleaned_files\cleaned_CheMed123_messages.csv
+2024-10-13 17:21:28,062 - INFO - Saved cleaned data to: C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/cleaned_files\cleaned_CheMed123_messages.csv
+2024-10-13 17:21:28,204 - INFO - Data stored in the 'CheMed123_messages' table.
+2024-10-13 17:21:28,205 - INFO - Processing file: C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/scrapped_json_files\DoctorsET_messages.json
+2024-10-13 17:21:28,218 - INFO - Successfully loaded data from C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/scrapped_json_files\DoctorsET_messages.json
+2024-10-13 17:21:28,220 - INFO - Data cleaning completed.
+2024-10-13 17:21:28,225 - INFO - Cleaned data saved to C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/cleaned_files\cleaned_DoctorsET_messages.csv
+2024-10-13 17:21:28,225 - INFO - Saved cleaned data to: C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/cleaned_files\cleaned_DoctorsET_messages.csv
+2024-10-13 17:21:28,342 - INFO - Data stored in the 'DoctorsET_messages' table.
+2024-10-13 17:21:28,342 - INFO - Processing file: C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/scrapped_json_files\EAHCI_messages.json
+2024-10-13 17:21:28,365 - INFO - Successfully loaded data from C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/scrapped_json_files\EAHCI_messages.json
+2024-10-13 17:21:28,367 - INFO - Data cleaning completed.
+2024-10-13 17:21:28,373 - INFO - Cleaned data saved to C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/cleaned_files\cleaned_EAHCI_messages.csv
+2024-10-13 17:21:28,373 - INFO - Saved cleaned data to: C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/cleaned_files\cleaned_EAHCI_messages.csv
+2024-10-13 17:21:28,458 - INFO - Data stored in the 'EAHCI_messages' table.
+2024-10-13 17:21:28,458 - INFO - Processing file: C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/scrapped_json_files\lobelia4cosmetics_messages.json
+2024-10-13 17:21:28,470 - INFO - Successfully loaded data from C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/scrapped_json_files\lobelia4cosmetics_messages.json
+2024-10-13 17:21:28,472 - INFO - Data cleaning completed.
+2024-10-13 17:21:28,477 - INFO - Cleaned data saved to C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/cleaned_files\cleaned_lobelia4cosmetics_messages.csv
+2024-10-13 17:21:28,477 - INFO - Saved cleaned data to: C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/cleaned_files\cleaned_lobelia4cosmetics_messages.csv
+2024-10-13 17:21:28,564 - INFO - Data stored in the 'lobelia4cosmetics_messages' table.
+2024-10-13 17:21:28,564 - INFO - Processing file: C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/scrapped_json_files\yetenaweg_messages.json
+2024-10-13 17:21:28,575 - INFO - Successfully loaded data from C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/scrapped_json_files\yetenaweg_messages.json
+2024-10-13 17:21:28,577 - INFO - Data cleaning completed.
+2024-10-13 17:21:28,582 - INFO - Cleaned data saved to C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/cleaned_files\cleaned_yetenaweg_messages.csv
+2024-10-13 17:21:28,582 - INFO - Saved cleaned data to: C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/cleaned_files\cleaned_yetenaweg_messages.csv
+2024-10-13 17:21:28,669 - INFO - Data stored in the 'yetenaweg_messages' table.
