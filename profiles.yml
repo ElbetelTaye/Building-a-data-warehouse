@@ -1,0 +1,12 @@
+building_warehouse:
+  outputs:
+    dev:
+      dbname: warehouse
+      host: localhost
+      pass: qwer1234
+      port: 5432
+      schema: public
+      threads: 1
+      type: postgres
+      user: postgres
+  target: dev
