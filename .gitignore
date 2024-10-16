@@ -2,3 +2,5 @@ images/
 .env
 cleaned_files/
 scrapped_json_files/
+logs/
+target/
