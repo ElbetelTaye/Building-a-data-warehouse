@@ -1,0 +1,30 @@
+2024-10-18 09:41:03,508 - INFO - YOLOv5 training script started.
+2024-10-18 09:41:03,508 - INFO - Validating existence of training data directories...
+2024-10-18 09:41:03,508 - INFO - Training data directories verified.
+2024-10-18 09:41:03,508 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-10-18 09:41:03,508 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-10-18 09:41:03,508 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-10-18 09:41:03,510 - INFO - Starting YOLOv5 training...
+2024-10-18 09:43:50,030 - INFO - YOLOv5 training command executed: ['python', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/train.py', '--img', '640', '--batch', '4', '--epochs', '30', '--data', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml', '--weights', 'yolov5s.pt', '--cache', '--device', '0']
+2024-10-18 09:43:50,030 - INFO - YOLOv5 training completed successfully.
+2024-10-18 09:43:50,031 - INFO - Training output: WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+
+2024-10-18 09:43:50,031 - INFO - Scanning for experiment folders in C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/runs/train...
+2024-10-18 09:43:50,031 - INFO - Latest experiment folder identified: exp6
+2024-10-18 09:43:50,031 - INFO - Checking for best.pt or last.pt model weights...
+2024-10-18 09:43:50,031 - INFO - Found best.pt at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/runs/train\exp6\weights\best.pt. Renaming to C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/notebooks/labeledyolov5.pt
+2024-10-18 09:43:50,031 - INFO - Overwriting existing weights file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/notebooks/labeledyolov5.pt
+2024-10-18 09:43:50,033 - INFO - Best weights saved to C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/notebooks/labeledyolov5.pt
+2024-10-18 09:43:50,033 - INFO - YOLOv5 training script completed.
