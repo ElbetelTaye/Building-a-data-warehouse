@@ -1145,3 +1145,82 @@
 2024-10-16 19:14:34,765 - INFO - Training completed and model saved to labeled_yolov5_model.pt
 2024-10-16 19:21:27,747 - INFO - Training completed and model saved to labeled_yolov5_model.pt
 2024-10-17 08:41:27,520 - INFO - Training completed and model saved to labeled_yolov5_model.pt
+2024-10-17 12:16:13,968 - INFO - YOLOv5 training script started.
+2024-10-17 12:16:13,968 - INFO - Validating existence of training data directories...
+2024-10-17 12:16:13,970 - INFO - Training data directories verified.
+2024-10-17 12:16:13,970 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-10-17 12:16:13,970 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-10-17 12:16:13,971 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-10-17 12:16:13,971 - INFO - Starting YOLOv5 training...
+2024-10-17 12:16:13,971 - ERROR - Exception occurred while executing YOLOv5 training: name 'subprocess' is not defined
+2024-10-17 12:16:54,343 - INFO - YOLOv5 training script started.
+2024-10-17 12:16:54,343 - INFO - Validating existence of training data directories...
+2024-10-17 12:16:54,344 - INFO - Training data directories verified.
+2024-10-17 12:16:54,344 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-10-17 12:16:54,344 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-10-17 12:16:54,345 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-10-17 12:16:54,345 - INFO - Starting YOLOv5 training...
+2024-10-17 12:17:01,493 - INFO - YOLOv5 training command executed: ['python', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/train.py', '--img', '640', '--batch', '4', '--epochs', '30', '--data', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml', '--weights', 'yolov5s.pt', '--cache', '--device', '0']
+2024-10-17 12:17:01,494 - ERROR - YOLOv5 training failed with error: [34m[1mtrain: [0mweights=yolov5s.pt, cfg=, data=C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml, hyp=..\yolov5\data\hyps\hyp.scratch-low.yaml, epochs=30, batch_size=4, imgsz=640, rect=False, resume=False, nosave=False, noval=False, noautoanchor=False, noplots=False, evolve=None, evolve_population=..\yolov5\data\hyps, resume_evolve=None, bucket=, cache=ram, image_weights=False, device=0, multi_scale=False, single_cls=False, optimizer=SGD, sync_bn=False, workers=8, project=..\yolov5\runs\train, name=exp, exist_ok=False, quad=False, cos_lr=False, label_smoothing=0.0, patience=100, freeze=[0], save_period=-1, seed=0, local_rank=-1, entity=None, upload_dataset=False, bbox_interval=-1, artifact_alias=latest, ndjson_console=False, ndjson_file=False
+[34m[1mgithub: [0mup to date with https://github.com/ultralytics/yolov5 
+Traceback (most recent call last):
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\train.py", line 986, in <module>
+    main(opt)
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\train.py", line 672, in main
+    device = select_device(opt.device, batch_size=opt.batch_size)
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\utils\torch_utils.py", line 124, in select_device
+    assert torch.cuda.is_available() and torch.cuda.device_count() >= len(
+AssertionError: Invalid CUDA '--device 0' requested, use '--device cpu' or pass valid CUDA device(s)
+
+2024-10-18 09:18:15,902 - INFO - YOLOv5 training script started.
+2024-10-18 09:18:15,903 - INFO - Validating existence of training data directories...
+2024-10-18 09:18:15,903 - INFO - Training data directories verified.
+2024-10-18 09:18:15,903 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-10-18 09:18:15,903 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-10-18 09:18:15,903 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-10-18 09:18:15,903 - INFO - Starting YOLOv5 training...
+2024-10-18 09:18:18,085 - INFO - YOLOv5 training command executed: ['python', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/train.py', '--img', '640', '--batch', '4', '--epochs', '30', '--data', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml', '--weights', 'yolov5s.pt', '--cache', '--device', '0']
+2024-10-18 09:18:18,085 - ERROR - YOLOv5 training failed with error: Traceback (most recent call last):
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\train.py", line 39, in <module>
+    from tqdm import tqdm
+ModuleNotFoundError: No module named 'tqdm'
+
+2024-10-18 09:18:31,684 - INFO - YOLOv5 training script started.
+2024-10-18 09:18:31,684 - INFO - Validating existence of training data directories...
+2024-10-18 09:18:31,685 - INFO - Training data directories verified.
+2024-10-18 09:18:31,685 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-10-18 09:18:31,685 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-10-18 09:18:31,685 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-10-18 09:18:31,685 - INFO - Starting YOLOv5 training...
+2024-10-18 09:18:33,544 - INFO - YOLOv5 training command executed: ['python', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/train.py', '--img', '640', '--batch', '4', '--epochs', '30', '--data', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml', '--weights', 'yolov5s.pt', '--cache', '--device', '0']
+2024-10-18 09:18:33,544 - ERROR - YOLOv5 training failed with error: Traceback (most recent call last):
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\train.py", line 39, in <module>
+    from tqdm import tqdm
+ModuleNotFoundError: No module named 'tqdm'
+
+2024-10-18 09:28:14,697 - INFO - YOLOv5 training script started.
+2024-10-18 09:28:14,697 - INFO - Validating existence of training data directories...
+2024-10-18 09:28:14,697 - INFO - Training data directories verified.
+2024-10-18 09:28:14,697 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-10-18 09:28:14,697 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-10-18 09:28:14,697 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-10-18 09:28:14,697 - INFO - Starting YOLOv5 training...
+2024-10-18 09:28:16,708 - INFO - YOLOv5 training command executed: ['python', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/train.py', '--img', '640', '--batch', '4', '--epochs', '30', '--data', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml', '--weights', 'yolov5s.pt', '--cache', '--device', '0']
+2024-10-18 09:28:16,708 - ERROR - YOLOv5 training failed with error: Traceback (most recent call last):
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\train.py", line 39, in <module>
+    from tqdm import tqdm
+ModuleNotFoundError: No module named 'tqdm'
+
+2024-10-18 09:32:25,851 - INFO - YOLOv5 training script started.
+2024-10-18 09:32:25,851 - INFO - Validating existence of training data directories...
+2024-10-18 09:32:25,851 - INFO - Training data directories verified.
+2024-10-18 09:32:25,852 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-10-18 09:32:25,852 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-10-18 09:32:25,852 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-10-18 09:32:25,852 - INFO - Starting YOLOv5 training...
+2024-10-18 09:32:27,516 - INFO - YOLOv5 training command executed: ['python', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/train.py', '--img', '640', '--batch', '4', '--epochs', '30', '--data', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml', '--weights', 'yolov5s.pt', '--cache', '--device', '0']
+2024-10-18 09:32:27,516 - ERROR - YOLOv5 training failed with error: Traceback (most recent call last):
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\train.py", line 39, in <module>
+    from tqdm import tqdm
+ModuleNotFoundError: No module named 'tqdm'
+
