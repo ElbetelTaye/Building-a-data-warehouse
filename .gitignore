@@ -2,3 +2,6 @@ images/
 .env
 cleaned_files/
 scrapped_json_files/
+medical_business_data/
+yolov5/
+target/
