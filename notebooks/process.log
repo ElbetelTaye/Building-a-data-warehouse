@@ -1,0 +1,1226 @@
+2024-10-16 11:27:16,941 - INFO - Loading YOLOv5 model.
+2024-10-16 11:27:21,529 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-10-16 11:27:21,529 - INFO - NumExpr defaulting to 8 threads.
+2024-10-16 11:27:31,691 - INFO - YOLOv5 model loaded successfully.
+2024-10-16 11:27:31,693 - INFO - Starting object detection for 10.jpg.
+2024-10-16 11:27:31,950 - INFO - Object detection completed and results saved for 10.jpg.
+2024-10-16 11:27:31,951 - INFO - Starting object detection for 11.jpg.
+2024-10-16 11:27:31,998 - INFO - Object detection completed and results saved for 11.jpg.
+2024-10-16 11:27:31,998 - INFO - Starting object detection for 11891.jpg.
+2024-10-16 11:27:32,049 - INFO - Object detection completed and results saved for 11891.jpg.
+2024-10-16 11:27:32,051 - INFO - Starting object detection for 11892.jpg.
+2024-10-16 11:27:32,094 - INFO - Object detection completed and results saved for 11892.jpg.
+2024-10-16 11:27:32,095 - INFO - Starting object detection for 11893.jpg.
+2024-10-16 11:27:32,133 - INFO - Object detection completed and results saved for 11893.jpg.
+2024-10-16 11:27:32,133 - INFO - Starting object detection for 11894.jpg.
+2024-10-16 11:27:32,176 - INFO - Object detection completed and results saved for 11894.jpg.
+2024-10-16 11:27:32,176 - INFO - Starting object detection for 11895.jpg.
+2024-10-16 11:27:32,260 - INFO - Object detection completed and results saved for 11895.jpg.
+2024-10-16 11:27:32,260 - INFO - Starting object detection for 11896.jpg.
+2024-10-16 11:27:32,325 - INFO - Object detection completed and results saved for 11896.jpg.
+2024-10-16 11:27:32,325 - INFO - Starting object detection for 11897.jpg.
+2024-10-16 11:27:32,711 - INFO - Object detection completed and results saved for 11897.jpg.
+2024-10-16 11:27:32,711 - INFO - Starting object detection for 11898.jpg.
+2024-10-16 11:27:32,768 - INFO - Object detection completed and results saved for 11898.jpg.
+2024-10-16 11:27:32,768 - INFO - Starting object detection for 11900.jpg.
+2024-10-16 11:27:32,818 - INFO - Object detection completed and results saved for 11900.jpg.
+2024-10-16 11:27:32,818 - INFO - Starting object detection for 11901.jpg.
+2024-10-16 11:27:32,889 - INFO - Object detection completed and results saved for 11901.jpg.
+2024-10-16 11:27:32,890 - INFO - Starting object detection for 11902.jpg.
+2024-10-16 11:27:32,949 - INFO - Object detection completed and results saved for 11902.jpg.
+2024-10-16 11:27:32,949 - INFO - Starting object detection for 11903.jpg.
+2024-10-16 11:27:33,030 - INFO - Object detection completed and results saved for 11903.jpg.
+2024-10-16 11:27:33,031 - INFO - Starting object detection for 11904.jpg.
+2024-10-16 11:27:33,090 - INFO - Object detection completed and results saved for 11904.jpg.
+2024-10-16 11:27:33,090 - INFO - Starting object detection for 11905.jpg.
+2024-10-16 11:27:33,147 - INFO - Object detection completed and results saved for 11905.jpg.
+2024-10-16 11:27:33,147 - INFO - Starting object detection for 11906.jpg.
+2024-10-16 11:27:33,212 - INFO - Object detection completed and results saved for 11906.jpg.
+2024-10-16 11:27:33,212 - INFO - Starting object detection for 11907.jpg.
+2024-10-16 11:27:33,317 - INFO - Object detection completed and results saved for 11907.jpg.
+2024-10-16 11:27:33,317 - INFO - Starting object detection for 11908.jpg.
+2024-10-16 11:27:33,397 - INFO - Object detection completed and results saved for 11908.jpg.
+2024-10-16 11:27:33,397 - INFO - Starting object detection for 11909.jpg.
+2024-10-16 11:27:33,473 - INFO - Object detection completed and results saved for 11909.jpg.
+2024-10-16 11:27:33,473 - INFO - Starting object detection for 11910.jpg.
+2024-10-16 11:27:33,541 - INFO - Object detection completed and results saved for 11910.jpg.
+2024-10-16 11:27:33,541 - INFO - Starting object detection for 11911.jpg.
+2024-10-16 11:27:33,605 - INFO - Object detection completed and results saved for 11911.jpg.
+2024-10-16 11:27:33,605 - INFO - Starting object detection for 11913.jpg.
+2024-10-16 11:27:33,705 - INFO - Object detection completed and results saved for 11913.jpg.
+2024-10-16 11:27:33,705 - INFO - Starting object detection for 11914.jpg.
+2024-10-16 11:27:33,760 - INFO - Object detection completed and results saved for 11914.jpg.
+2024-10-16 11:27:33,761 - INFO - Starting object detection for 11915.jpg.
+2024-10-16 11:27:33,815 - INFO - Object detection completed and results saved for 11915.jpg.
+2024-10-16 11:27:33,815 - INFO - Starting object detection for 11916.jpg.
+2024-10-16 11:27:33,860 - INFO - Object detection completed and results saved for 11916.jpg.
+2024-10-16 11:27:33,861 - INFO - Starting object detection for 11917.jpg.
+2024-10-16 11:27:33,933 - INFO - Object detection completed and results saved for 11917.jpg.
+2024-10-16 11:27:33,933 - INFO - Starting object detection for 11918.jpg.
+2024-10-16 11:27:34,014 - INFO - Object detection completed and results saved for 11918.jpg.
+2024-10-16 11:27:34,014 - INFO - Starting object detection for 11919.jpg.
+2024-10-16 11:27:34,100 - INFO - Object detection completed and results saved for 11919.jpg.
+2024-10-16 11:27:34,101 - INFO - Starting object detection for 11920.jpg.
+2024-10-16 11:27:34,180 - INFO - Object detection completed and results saved for 11920.jpg.
+2024-10-16 11:27:34,180 - INFO - Starting object detection for 11921.jpg.
+2024-10-16 11:27:34,279 - INFO - Object detection completed and results saved for 11921.jpg.
+2024-10-16 11:27:34,280 - INFO - Starting object detection for 11922.jpg.
+2024-10-16 11:27:34,335 - INFO - Object detection completed and results saved for 11922.jpg.
+2024-10-16 11:27:34,336 - INFO - Starting object detection for 11923.jpg.
+2024-10-16 11:27:34,395 - INFO - Object detection completed and results saved for 11923.jpg.
+2024-10-16 11:27:34,396 - INFO - Starting object detection for 11924.jpg.
+2024-10-16 11:27:34,491 - INFO - Object detection completed and results saved for 11924.jpg.
+2024-10-16 11:27:34,491 - INFO - Starting object detection for 11925.jpg.
+2024-10-16 11:27:34,563 - INFO - Object detection completed and results saved for 11925.jpg.
+2024-10-16 11:27:34,564 - INFO - Starting object detection for 11926.jpg.
+2024-10-16 11:27:34,652 - INFO - Object detection completed and results saved for 11926.jpg.
+2024-10-16 11:27:34,652 - INFO - Starting object detection for 11927.jpg.
+2024-10-16 11:27:34,718 - INFO - Object detection completed and results saved for 11927.jpg.
+2024-10-16 11:27:34,718 - INFO - Starting object detection for 11928.jpg.
+2024-10-16 11:27:34,773 - INFO - Object detection completed and results saved for 11928.jpg.
+2024-10-16 11:27:34,774 - INFO - Starting object detection for 11929.jpg.
+2024-10-16 11:27:34,831 - INFO - Object detection completed and results saved for 11929.jpg.
+2024-10-16 11:27:34,832 - INFO - Starting object detection for 11930.jpg.
+2024-10-16 11:27:34,891 - INFO - Object detection completed and results saved for 11930.jpg.
+2024-10-16 11:27:34,892 - INFO - Starting object detection for 11932.jpg.
+2024-10-16 11:27:34,951 - INFO - Object detection completed and results saved for 11932.jpg.
+2024-10-16 11:27:34,952 - INFO - Starting object detection for 11933.jpg.
+2024-10-16 11:27:35,020 - INFO - Object detection completed and results saved for 11933.jpg.
+2024-10-16 11:27:35,021 - INFO - Starting object detection for 11934.jpg.
+2024-10-16 11:27:35,084 - INFO - Object detection completed and results saved for 11934.jpg.
+2024-10-16 11:27:35,085 - INFO - Starting object detection for 11935.jpg.
+2024-10-16 11:27:35,155 - INFO - Object detection completed and results saved for 11935.jpg.
+2024-10-16 11:27:35,155 - INFO - Starting object detection for 11936.jpg.
+2024-10-16 11:27:35,223 - INFO - Object detection completed and results saved for 11936.jpg.
+2024-10-16 11:27:35,223 - INFO - Starting object detection for 11937.jpg.
+2024-10-16 11:27:35,276 - INFO - Object detection completed and results saved for 11937.jpg.
+2024-10-16 11:27:35,277 - INFO - Starting object detection for 11938.jpg.
+2024-10-16 11:27:35,344 - INFO - Object detection completed and results saved for 11938.jpg.
+2024-10-16 11:27:35,345 - INFO - Starting object detection for 11939.jpg.
+2024-10-16 11:27:35,404 - INFO - Object detection completed and results saved for 11939.jpg.
+2024-10-16 11:27:35,405 - INFO - Starting object detection for 11941.jpg.
+2024-10-16 11:27:35,488 - INFO - Object detection completed and results saved for 11941.jpg.
+2024-10-16 11:27:35,488 - INFO - Starting object detection for 11942.jpg.
+2024-10-16 11:27:35,572 - INFO - Object detection completed and results saved for 11942.jpg.
+2024-10-16 11:27:35,572 - INFO - Starting object detection for 11943.jpg.
+2024-10-16 11:27:35,633 - INFO - Object detection completed and results saved for 11943.jpg.
+2024-10-16 11:27:35,634 - INFO - Starting object detection for 11944.jpg.
+2024-10-16 11:27:35,700 - INFO - Object detection completed and results saved for 11944.jpg.
+2024-10-16 11:27:35,701 - INFO - Starting object detection for 11945.jpg.
+2024-10-16 11:27:35,771 - INFO - Object detection completed and results saved for 11945.jpg.
+2024-10-16 11:27:35,771 - INFO - Starting object detection for 11946.jpg.
+2024-10-16 11:27:35,825 - INFO - Object detection completed and results saved for 11946.jpg.
+2024-10-16 11:27:35,826 - INFO - Starting object detection for 11947.jpg.
+2024-10-16 11:27:35,898 - INFO - Object detection completed and results saved for 11947.jpg.
+2024-10-16 11:27:35,899 - INFO - Starting object detection for 11948.jpg.
+2024-10-16 11:27:35,959 - INFO - Object detection completed and results saved for 11948.jpg.
+2024-10-16 11:27:35,960 - INFO - Starting object detection for 11949.jpg.
+2024-10-16 11:27:36,033 - INFO - Object detection completed and results saved for 11949.jpg.
+2024-10-16 11:27:36,033 - INFO - Starting object detection for 11950.jpg.
+2024-10-16 11:27:36,142 - INFO - Object detection completed and results saved for 11950.jpg.
+2024-10-16 11:27:36,142 - INFO - Starting object detection for 11951.jpg.
+2024-10-16 11:27:36,234 - INFO - Object detection completed and results saved for 11951.jpg.
+2024-10-16 11:27:36,234 - INFO - Starting object detection for 11952.jpg.
+2024-10-16 11:27:36,358 - INFO - Object detection completed and results saved for 11952.jpg.
+2024-10-16 11:27:36,358 - INFO - Starting object detection for 11953.jpg.
+2024-10-16 11:27:36,426 - INFO - Object detection completed and results saved for 11953.jpg.
+2024-10-16 11:27:36,427 - INFO - Starting object detection for 11954.jpg.
+2024-10-16 11:27:36,502 - INFO - Object detection completed and results saved for 11954.jpg.
+2024-10-16 11:27:36,502 - INFO - Starting object detection for 11955.jpg.
+2024-10-16 11:27:36,580 - INFO - Object detection completed and results saved for 11955.jpg.
+2024-10-16 11:27:36,580 - INFO - Starting object detection for 11956.jpg.
+2024-10-16 11:27:36,655 - INFO - Object detection completed and results saved for 11956.jpg.
+2024-10-16 11:27:36,656 - INFO - Starting object detection for 11957.jpg.
+2024-10-16 11:27:36,734 - INFO - Object detection completed and results saved for 11957.jpg.
+2024-10-16 11:27:36,735 - INFO - Starting object detection for 11958.jpg.
+2024-10-16 11:27:36,797 - INFO - Object detection completed and results saved for 11958.jpg.
+2024-10-16 11:27:36,797 - INFO - Starting object detection for 11959.jpg.
+2024-10-16 11:27:36,863 - INFO - Object detection completed and results saved for 11959.jpg.
+2024-10-16 11:27:36,863 - INFO - Starting object detection for 11960.jpg.
+2024-10-16 11:27:36,922 - INFO - Object detection completed and results saved for 11960.jpg.
+2024-10-16 11:27:36,923 - INFO - Starting object detection for 11961.jpg.
+2024-10-16 11:27:36,993 - INFO - Object detection completed and results saved for 11961.jpg.
+2024-10-16 11:27:36,993 - INFO - Starting object detection for 11963.jpg.
+2024-10-16 11:27:37,059 - INFO - Object detection completed and results saved for 11963.jpg.
+2024-10-16 11:27:37,060 - INFO - Starting object detection for 11964.jpg.
+2024-10-16 11:27:37,115 - INFO - Object detection completed and results saved for 11964.jpg.
+2024-10-16 11:27:37,116 - INFO - Starting object detection for 11965.jpg.
+2024-10-16 11:27:37,165 - INFO - Object detection completed and results saved for 11965.jpg.
+2024-10-16 11:27:37,165 - INFO - Starting object detection for 11966.jpg.
+2024-10-16 11:27:37,217 - INFO - Object detection completed and results saved for 11966.jpg.
+2024-10-16 11:27:37,217 - INFO - Starting object detection for 11967.jpg.
+2024-10-16 11:27:37,269 - INFO - Object detection completed and results saved for 11967.jpg.
+2024-10-16 11:27:37,269 - INFO - Starting object detection for 11968.jpg.
+2024-10-16 11:27:37,333 - INFO - Object detection completed and results saved for 11968.jpg.
+2024-10-16 11:27:37,333 - INFO - Starting object detection for 11969.jpg.
+2024-10-16 11:27:37,402 - INFO - Object detection completed and results saved for 11969.jpg.
+2024-10-16 11:27:37,402 - INFO - Starting object detection for 11970.jpg.
+2024-10-16 11:27:37,473 - INFO - Object detection completed and results saved for 11970.jpg.
+2024-10-16 11:27:37,473 - INFO - Starting object detection for 11971.jpg.
+2024-10-16 11:27:37,546 - INFO - Object detection completed and results saved for 11971.jpg.
+2024-10-16 11:27:37,546 - INFO - Starting object detection for 11972.jpg.
+2024-10-16 11:27:37,611 - INFO - Object detection completed and results saved for 11972.jpg.
+2024-10-16 11:27:37,611 - INFO - Starting object detection for 11973.jpg.
+2024-10-16 11:27:37,670 - INFO - Object detection completed and results saved for 11973.jpg.
+2024-10-16 11:27:37,670 - INFO - Starting object detection for 11974.jpg.
+2024-10-16 11:27:37,729 - INFO - Object detection completed and results saved for 11974.jpg.
+2024-10-16 11:27:37,729 - INFO - Starting object detection for 11975.jpg.
+2024-10-16 11:27:37,799 - INFO - Object detection completed and results saved for 11975.jpg.
+2024-10-16 11:27:37,799 - INFO - Starting object detection for 11976.jpg.
+2024-10-16 11:27:37,887 - INFO - Object detection completed and results saved for 11976.jpg.
+2024-10-16 11:27:37,887 - INFO - Starting object detection for 11977.jpg.
+2024-10-16 11:27:37,949 - INFO - Object detection completed and results saved for 11977.jpg.
+2024-10-16 11:27:37,949 - INFO - Starting object detection for 11978.jpg.
+2024-10-16 11:27:38,024 - INFO - Object detection completed and results saved for 11978.jpg.
+2024-10-16 11:27:38,025 - INFO - Starting object detection for 11979.jpg.
+2024-10-16 11:27:38,099 - INFO - Object detection completed and results saved for 11979.jpg.
+2024-10-16 11:27:38,100 - INFO - Starting object detection for 11980.jpg.
+2024-10-16 11:27:38,169 - INFO - Object detection completed and results saved for 11980.jpg.
+2024-10-16 11:27:38,170 - INFO - Starting object detection for 11981.jpg.
+2024-10-16 11:27:38,229 - INFO - Object detection completed and results saved for 11981.jpg.
+2024-10-16 11:27:38,230 - INFO - Starting object detection for 11982.jpg.
+2024-10-16 11:27:38,285 - INFO - Object detection completed and results saved for 11982.jpg.
+2024-10-16 11:27:38,285 - INFO - Starting object detection for 11983.jpg.
+2024-10-16 11:27:38,353 - INFO - Object detection completed and results saved for 11983.jpg.
+2024-10-16 11:27:38,353 - INFO - Starting object detection for 11984.jpg.
+2024-10-16 11:27:38,412 - INFO - Object detection completed and results saved for 11984.jpg.
+2024-10-16 11:27:38,412 - INFO - Starting object detection for 11985.jpg.
+2024-10-16 11:27:38,458 - INFO - Object detection completed and results saved for 11985.jpg.
+2024-10-16 11:27:38,458 - INFO - Starting object detection for 11986.jpg.
+2024-10-16 11:27:38,516 - INFO - Object detection completed and results saved for 11986.jpg.
+2024-10-16 11:27:38,516 - INFO - Starting object detection for 11987.jpg.
+2024-10-16 11:27:38,559 - INFO - Object detection completed and results saved for 11987.jpg.
+2024-10-16 11:27:38,559 - INFO - Starting object detection for 11988.jpg.
+2024-10-16 11:27:38,614 - INFO - Object detection completed and results saved for 11988.jpg.
+2024-10-16 11:27:38,614 - INFO - Starting object detection for 11989.jpg.
+2024-10-16 11:27:38,658 - INFO - Object detection completed and results saved for 11989.jpg.
+2024-10-16 11:27:38,658 - INFO - Starting object detection for 11990.jpg.
+2024-10-16 11:27:38,714 - INFO - Object detection completed and results saved for 11990.jpg.
+2024-10-16 11:27:38,714 - INFO - Starting object detection for 11991.jpg.
+2024-10-16 11:27:38,769 - INFO - Object detection completed and results saved for 11991.jpg.
+2024-10-16 11:27:38,769 - INFO - Starting object detection for 11992.jpg.
+2024-10-16 11:27:38,819 - INFO - Object detection completed and results saved for 11992.jpg.
+2024-10-16 11:27:38,820 - INFO - Starting object detection for 11993.jpg.
+2024-10-16 11:27:38,900 - INFO - Object detection completed and results saved for 11993.jpg.
+2024-10-16 11:27:38,900 - INFO - Starting object detection for 11994.jpg.
+2024-10-16 11:27:38,961 - INFO - Object detection completed and results saved for 11994.jpg.
+2024-10-16 11:27:38,962 - INFO - Starting object detection for 11995.jpg.
+2024-10-16 11:27:39,033 - INFO - Object detection completed and results saved for 11995.jpg.
+2024-10-16 11:27:39,033 - INFO - Starting object detection for 11996.jpg.
+2024-10-16 11:27:39,088 - INFO - Object detection completed and results saved for 11996.jpg.
+2024-10-16 11:27:39,088 - INFO - Starting object detection for 11997.jpg.
+2024-10-16 11:27:39,144 - INFO - Object detection completed and results saved for 11997.jpg.
+2024-10-16 11:27:39,144 - INFO - Starting object detection for 11998.jpg.
+2024-10-16 11:27:39,225 - INFO - Object detection completed and results saved for 11998.jpg.
+2024-10-16 11:27:39,225 - INFO - Starting object detection for 11999.jpg.
+2024-10-16 11:27:39,287 - INFO - Object detection completed and results saved for 11999.jpg.
+2024-10-16 11:27:39,288 - INFO - Starting object detection for 12000.jpg.
+2024-10-16 11:27:39,353 - INFO - Object detection completed and results saved for 12000.jpg.
+2024-10-16 11:27:39,353 - INFO - Starting object detection for 12002.jpg.
+2024-10-16 11:27:39,418 - INFO - Object detection completed and results saved for 12002.jpg.
+2024-10-16 11:27:39,419 - INFO - Starting object detection for 12003.jpg.
+2024-10-16 11:27:39,490 - INFO - Object detection completed and results saved for 12003.jpg.
+2024-10-16 11:27:39,490 - INFO - Starting object detection for 12004.jpg.
+2024-10-16 11:27:39,555 - INFO - Object detection completed and results saved for 12004.jpg.
+2024-10-16 11:27:39,556 - INFO - Starting object detection for 12005.jpg.
+2024-10-16 11:27:39,617 - INFO - Object detection completed and results saved for 12005.jpg.
+2024-10-16 11:27:39,617 - INFO - Starting object detection for 12006.jpg.
+2024-10-16 11:27:39,687 - INFO - Object detection completed and results saved for 12006.jpg.
+2024-10-16 11:27:39,687 - INFO - Starting object detection for 12007.jpg.
+2024-10-16 11:27:39,732 - INFO - Object detection completed and results saved for 12007.jpg.
+2024-10-16 11:27:39,732 - INFO - Starting object detection for 12008.jpg.
+2024-10-16 11:27:39,793 - INFO - Object detection completed and results saved for 12008.jpg.
+2024-10-16 11:27:39,793 - INFO - Starting object detection for 12009.jpg.
+2024-10-16 11:27:39,861 - INFO - Object detection completed and results saved for 12009.jpg.
+2024-10-16 11:27:39,862 - INFO - Starting object detection for 12010.jpg.
+2024-10-16 11:27:39,914 - INFO - Object detection completed and results saved for 12010.jpg.
+2024-10-16 11:27:39,915 - INFO - Starting object detection for 12011.jpg.
+2024-10-16 11:27:39,963 - INFO - Object detection completed and results saved for 12011.jpg.
+2024-10-16 11:27:39,963 - INFO - Starting object detection for 12012.jpg.
+2024-10-16 11:27:40,028 - INFO - Object detection completed and results saved for 12012.jpg.
+2024-10-16 11:27:40,028 - INFO - Starting object detection for 12013.jpg.
+2024-10-16 11:27:40,096 - INFO - Object detection completed and results saved for 12013.jpg.
+2024-10-16 11:27:40,097 - INFO - Starting object detection for 12014.jpg.
+2024-10-16 11:27:40,155 - INFO - Object detection completed and results saved for 12014.jpg.
+2024-10-16 11:27:40,156 - INFO - Starting object detection for 12015.jpg.
+2024-10-16 11:27:40,216 - INFO - Object detection completed and results saved for 12015.jpg.
+2024-10-16 11:27:40,217 - INFO - Starting object detection for 12016.jpg.
+2024-10-16 11:27:40,278 - INFO - Object detection completed and results saved for 12016.jpg.
+2024-10-16 11:27:40,278 - INFO - Starting object detection for 12017.jpg.
+2024-10-16 11:27:40,335 - INFO - Object detection completed and results saved for 12017.jpg.
+2024-10-16 11:27:40,335 - INFO - Starting object detection for 12018.jpg.
+2024-10-16 11:27:40,388 - INFO - Object detection completed and results saved for 12018.jpg.
+2024-10-16 11:27:40,388 - INFO - Starting object detection for 12019.jpg.
+2024-10-16 11:27:40,433 - INFO - Object detection completed and results saved for 12019.jpg.
+2024-10-16 11:27:40,433 - INFO - Starting object detection for 12020.jpg.
+2024-10-16 11:27:40,527 - INFO - Object detection completed and results saved for 12020.jpg.
+2024-10-16 11:27:40,527 - INFO - Starting object detection for 12021.jpg.
+2024-10-16 11:27:40,597 - INFO - Object detection completed and results saved for 12021.jpg.
+2024-10-16 11:27:40,598 - INFO - Starting object detection for 12023.jpg.
+2024-10-16 11:27:40,684 - INFO - Object detection completed and results saved for 12023.jpg.
+2024-10-16 11:27:40,684 - INFO - Starting object detection for 12024.jpg.
+2024-10-16 11:27:40,739 - INFO - Object detection completed and results saved for 12024.jpg.
+2024-10-16 11:27:40,740 - INFO - Starting object detection for 12025.jpg.
+2024-10-16 11:27:40,804 - INFO - Object detection completed and results saved for 12025.jpg.
+2024-10-16 11:27:40,804 - INFO - Starting object detection for 12026.jpg.
+2024-10-16 11:27:40,858 - INFO - Object detection completed and results saved for 12026.jpg.
+2024-10-16 11:27:40,858 - INFO - Starting object detection for 12027.jpg.
+2024-10-16 11:27:40,923 - INFO - Object detection completed and results saved for 12027.jpg.
+2024-10-16 11:27:40,923 - INFO - Starting object detection for 12028.jpg.
+2024-10-16 11:27:40,977 - INFO - Object detection completed and results saved for 12028.jpg.
+2024-10-16 11:27:40,977 - INFO - Starting object detection for 12029.jpg.
+2024-10-16 11:27:41,041 - INFO - Object detection completed and results saved for 12029.jpg.
+2024-10-16 11:27:41,041 - INFO - Starting object detection for 12030.jpg.
+2024-10-16 11:27:41,109 - INFO - Object detection completed and results saved for 12030.jpg.
+2024-10-16 11:27:41,110 - INFO - Starting object detection for 12031.jpg.
+2024-10-16 11:27:41,186 - INFO - Object detection completed and results saved for 12031.jpg.
+2024-10-16 11:27:41,186 - INFO - Starting object detection for 12032.jpg.
+2024-10-16 11:27:41,255 - INFO - Object detection completed and results saved for 12032.jpg.
+2024-10-16 11:27:41,255 - INFO - Starting object detection for 12033.jpg.
+2024-10-16 11:27:41,325 - INFO - Object detection completed and results saved for 12033.jpg.
+2024-10-16 11:27:41,325 - INFO - Starting object detection for 12034.jpg.
+2024-10-16 11:27:41,441 - INFO - Object detection completed and results saved for 12034.jpg.
+2024-10-16 11:27:41,442 - INFO - Starting object detection for 12035.jpg.
+2024-10-16 11:27:41,520 - INFO - Object detection completed and results saved for 12035.jpg.
+2024-10-16 11:27:41,520 - INFO - Starting object detection for 12036.jpg.
+2024-10-16 11:27:41,587 - INFO - Object detection completed and results saved for 12036.jpg.
+2024-10-16 11:27:41,588 - INFO - Starting object detection for 12037.jpg.
+2024-10-16 11:27:41,647 - INFO - Object detection completed and results saved for 12037.jpg.
+2024-10-16 11:27:41,647 - INFO - Starting object detection for 12038.jpg.
+2024-10-16 11:27:41,711 - INFO - Object detection completed and results saved for 12038.jpg.
+2024-10-16 11:27:41,711 - INFO - Starting object detection for 12039.jpg.
+2024-10-16 11:27:41,784 - INFO - Object detection completed and results saved for 12039.jpg.
+2024-10-16 11:27:41,785 - INFO - Starting object detection for 12040.jpg.
+2024-10-16 11:27:41,861 - INFO - Object detection completed and results saved for 12040.jpg.
+2024-10-16 11:27:41,862 - INFO - Starting object detection for 12041.jpg.
+2024-10-16 11:27:41,943 - INFO - Object detection completed and results saved for 12041.jpg.
+2024-10-16 11:27:41,943 - INFO - Starting object detection for 12042.jpg.
+2024-10-16 11:27:42,024 - INFO - Object detection completed and results saved for 12042.jpg.
+2024-10-16 11:27:42,024 - INFO - Starting object detection for 12043.jpg.
+2024-10-16 11:27:42,132 - INFO - Object detection completed and results saved for 12043.jpg.
+2024-10-16 11:27:42,132 - INFO - Starting object detection for 12044.jpg.
+2024-10-16 11:27:42,196 - INFO - Object detection completed and results saved for 12044.jpg.
+2024-10-16 11:27:42,196 - INFO - Starting object detection for 12045.jpg.
+2024-10-16 11:27:42,267 - INFO - Object detection completed and results saved for 12045.jpg.
+2024-10-16 11:27:42,267 - INFO - Starting object detection for 12046.jpg.
+2024-10-16 11:27:42,340 - INFO - Object detection completed and results saved for 12046.jpg.
+2024-10-16 11:27:42,340 - INFO - Starting object detection for 12047.jpg.
+2024-10-16 11:27:42,406 - INFO - Object detection completed and results saved for 12047.jpg.
+2024-10-16 11:27:42,406 - INFO - Starting object detection for 12048.jpg.
+2024-10-16 11:27:42,492 - INFO - Object detection completed and results saved for 12048.jpg.
+2024-10-16 11:27:42,492 - INFO - Starting object detection for 12049.jpg.
+2024-10-16 11:27:42,559 - INFO - Object detection completed and results saved for 12049.jpg.
+2024-10-16 11:27:42,560 - INFO - Starting object detection for 12050.jpg.
+2024-10-16 11:27:42,623 - INFO - Object detection completed and results saved for 12050.jpg.
+2024-10-16 11:27:42,623 - INFO - Starting object detection for 12051.jpg.
+2024-10-16 11:27:42,683 - INFO - Object detection completed and results saved for 12051.jpg.
+2024-10-16 11:27:42,684 - INFO - Starting object detection for 12052.jpg.
+2024-10-16 11:27:42,732 - INFO - Object detection completed and results saved for 12052.jpg.
+2024-10-16 11:27:42,733 - INFO - Starting object detection for 12053.jpg.
+2024-10-16 11:27:42,790 - INFO - Object detection completed and results saved for 12053.jpg.
+2024-10-16 11:27:42,790 - INFO - Starting object detection for 12054.jpg.
+2024-10-16 11:27:42,844 - INFO - Object detection completed and results saved for 12054.jpg.
+2024-10-16 11:27:42,844 - INFO - Starting object detection for 12055.jpg.
+2024-10-16 11:27:42,908 - INFO - Object detection completed and results saved for 12055.jpg.
+2024-10-16 11:27:42,908 - INFO - Starting object detection for 12056.jpg.
+2024-10-16 11:27:42,984 - INFO - Object detection completed and results saved for 12056.jpg.
+2024-10-16 11:27:42,984 - INFO - Starting object detection for 12057.jpg.
+2024-10-16 11:27:43,061 - INFO - Object detection completed and results saved for 12057.jpg.
+2024-10-16 11:27:43,061 - INFO - Starting object detection for 12058.jpg.
+2024-10-16 11:27:43,135 - INFO - Object detection completed and results saved for 12058.jpg.
+2024-10-16 11:27:43,135 - INFO - Starting object detection for 12059.jpg.
+2024-10-16 11:27:43,191 - INFO - Object detection completed and results saved for 12059.jpg.
+2024-10-16 11:27:43,191 - INFO - Starting object detection for 12060.jpg.
+2024-10-16 11:27:43,255 - INFO - Object detection completed and results saved for 12060.jpg.
+2024-10-16 11:27:43,255 - INFO - Starting object detection for 12061.jpg.
+2024-10-16 11:27:43,301 - INFO - Object detection completed and results saved for 12061.jpg.
+2024-10-16 11:27:43,301 - INFO - Starting object detection for 12062.jpg.
+2024-10-16 11:27:43,354 - INFO - Object detection completed and results saved for 12062.jpg.
+2024-10-16 11:27:43,354 - INFO - Starting object detection for 12063.jpg.
+2024-10-16 11:27:43,449 - INFO - Object detection completed and results saved for 12063.jpg.
+2024-10-16 11:27:43,450 - INFO - Starting object detection for 12064.jpg.
+2024-10-16 11:27:43,521 - INFO - Object detection completed and results saved for 12064.jpg.
+2024-10-16 11:27:43,521 - INFO - Starting object detection for 12065.jpg.
+2024-10-16 11:27:43,594 - INFO - Object detection completed and results saved for 12065.jpg.
+2024-10-16 11:27:43,594 - INFO - Starting object detection for 12066.jpg.
+2024-10-16 11:27:43,653 - INFO - Object detection completed and results saved for 12066.jpg.
+2024-10-16 11:27:43,654 - INFO - Starting object detection for 12067.jpg.
+2024-10-16 11:27:43,725 - INFO - Object detection completed and results saved for 12067.jpg.
+2024-10-16 11:27:43,725 - INFO - Starting object detection for 12068.jpg.
+2024-10-16 11:27:43,778 - INFO - Object detection completed and results saved for 12068.jpg.
+2024-10-16 11:27:43,779 - INFO - Starting object detection for 12069.jpg.
+2024-10-16 11:27:43,832 - INFO - Object detection completed and results saved for 12069.jpg.
+2024-10-16 11:27:43,832 - INFO - Starting object detection for 12070.jpg.
+2024-10-16 11:27:43,882 - INFO - Object detection completed and results saved for 12070.jpg.
+2024-10-16 11:27:43,882 - INFO - Starting object detection for 12071.jpg.
+2024-10-16 11:27:43,934 - INFO - Object detection completed and results saved for 12071.jpg.
+2024-10-16 11:27:43,934 - INFO - Starting object detection for 12072.jpg.
+2024-10-16 11:27:43,988 - INFO - Object detection completed and results saved for 12072.jpg.
+2024-10-16 11:27:43,988 - INFO - Starting object detection for 12073.jpg.
+2024-10-16 11:27:44,041 - INFO - Object detection completed and results saved for 12073.jpg.
+2024-10-16 11:27:44,041 - INFO - Starting object detection for 12074.jpg.
+2024-10-16 11:27:44,104 - INFO - Object detection completed and results saved for 12074.jpg.
+2024-10-16 11:27:44,105 - INFO - Starting object detection for 12075.jpg.
+2024-10-16 11:27:44,162 - INFO - Object detection completed and results saved for 12075.jpg.
+2024-10-16 11:27:44,162 - INFO - Starting object detection for 12076.jpg.
+2024-10-16 11:27:44,219 - INFO - Object detection completed and results saved for 12076.jpg.
+2024-10-16 11:27:44,219 - INFO - Starting object detection for 12077.jpg.
+2024-10-16 11:27:44,267 - INFO - Object detection completed and results saved for 12077.jpg.
+2024-10-16 11:27:44,268 - INFO - Starting object detection for 12078.jpg.
+2024-10-16 11:27:44,324 - INFO - Object detection completed and results saved for 12078.jpg.
+2024-10-16 11:27:44,324 - INFO - Starting object detection for 12079.jpg.
+2024-10-16 11:27:44,375 - INFO - Object detection completed and results saved for 12079.jpg.
+2024-10-16 11:27:44,375 - INFO - Starting object detection for 12080.jpg.
+2024-10-16 11:27:44,434 - INFO - Object detection completed and results saved for 12080.jpg.
+2024-10-16 11:27:44,434 - INFO - Starting object detection for 12081.jpg.
+2024-10-16 11:27:44,486 - INFO - Object detection completed and results saved for 12081.jpg.
+2024-10-16 11:27:44,486 - INFO - Starting object detection for 12082.jpg.
+2024-10-16 11:27:44,541 - INFO - Object detection completed and results saved for 12082.jpg.
+2024-10-16 11:27:44,541 - INFO - Starting object detection for 12084.jpg.
+2024-10-16 11:27:44,590 - INFO - Object detection completed and results saved for 12084.jpg.
+2024-10-16 11:27:44,591 - INFO - Starting object detection for 12085.jpg.
+2024-10-16 11:27:44,658 - INFO - Object detection completed and results saved for 12085.jpg.
+2024-10-16 11:27:44,658 - INFO - Starting object detection for 12086.jpg.
+2024-10-16 11:27:44,734 - INFO - Object detection completed and results saved for 12086.jpg.
+2024-10-16 11:27:44,734 - INFO - Starting object detection for 12087.jpg.
+2024-10-16 11:27:44,871 - INFO - Object detection completed and results saved for 12087.jpg.
+2024-10-16 11:27:44,871 - INFO - Starting object detection for 12088.jpg.
+2024-10-16 11:27:44,932 - INFO - Object detection completed and results saved for 12088.jpg.
+2024-10-16 11:27:44,933 - INFO - Starting object detection for 12090.jpg.
+2024-10-16 11:27:45,018 - INFO - Object detection completed and results saved for 12090.jpg.
+2024-10-16 11:27:45,018 - INFO - Starting object detection for 12091.jpg.
+2024-10-16 11:27:45,077 - INFO - Object detection completed and results saved for 12091.jpg.
+2024-10-16 11:27:45,077 - INFO - Starting object detection for 12092.jpg.
+2024-10-16 11:27:45,131 - INFO - Object detection completed and results saved for 12092.jpg.
+2024-10-16 11:27:45,132 - INFO - Starting object detection for 12093.jpg.
+2024-10-16 11:27:45,181 - INFO - Object detection completed and results saved for 12093.jpg.
+2024-10-16 11:27:45,182 - INFO - Starting object detection for 12094.jpg.
+2024-10-16 11:27:45,242 - INFO - Object detection completed and results saved for 12094.jpg.
+2024-10-16 11:27:45,243 - INFO - Starting object detection for 12095.jpg.
+2024-10-16 11:27:45,310 - INFO - Object detection completed and results saved for 12095.jpg.
+2024-10-16 11:27:45,310 - INFO - Starting object detection for 12096.jpg.
+2024-10-16 11:27:45,371 - INFO - Object detection completed and results saved for 12096.jpg.
+2024-10-16 11:27:45,371 - INFO - Starting object detection for 12097.jpg.
+2024-10-16 11:27:45,430 - INFO - Object detection completed and results saved for 12097.jpg.
+2024-10-16 11:27:45,430 - INFO - Starting object detection for 12098.jpg.
+2024-10-16 11:27:45,488 - INFO - Object detection completed and results saved for 12098.jpg.
+2024-10-16 11:27:45,488 - INFO - Starting object detection for 12099.jpg.
+2024-10-16 11:27:45,538 - INFO - Object detection completed and results saved for 12099.jpg.
+2024-10-16 11:27:45,538 - INFO - Starting object detection for 12101.jpg.
+2024-10-16 11:27:45,601 - INFO - Object detection completed and results saved for 12101.jpg.
+2024-10-16 11:27:45,602 - INFO - Starting object detection for 12102.jpg.
+2024-10-16 11:27:45,674 - INFO - Object detection completed and results saved for 12102.jpg.
+2024-10-16 11:27:45,674 - INFO - Starting object detection for 12103.jpg.
+2024-10-16 11:27:45,735 - INFO - Object detection completed and results saved for 12103.jpg.
+2024-10-16 11:27:45,736 - INFO - Starting object detection for 12104.jpg.
+2024-10-16 11:27:45,806 - INFO - Object detection completed and results saved for 12104.jpg.
+2024-10-16 11:27:45,806 - INFO - Starting object detection for 12107.jpg.
+2024-10-16 11:27:45,861 - INFO - Object detection completed and results saved for 12107.jpg.
+2024-10-16 11:27:45,862 - INFO - Starting object detection for 12108.jpg.
+2024-10-16 11:27:45,921 - INFO - Object detection completed and results saved for 12108.jpg.
+2024-10-16 11:27:45,921 - INFO - Starting object detection for 12109.jpg.
+2024-10-16 11:27:45,991 - INFO - Object detection completed and results saved for 12109.jpg.
+2024-10-16 11:27:45,991 - INFO - Starting object detection for 12111.jpg.
+2024-10-16 11:27:46,046 - INFO - Object detection completed and results saved for 12111.jpg.
+2024-10-16 11:27:46,046 - INFO - Starting object detection for 12112.jpg.
+2024-10-16 11:27:46,115 - INFO - Object detection completed and results saved for 12112.jpg.
+2024-10-16 11:27:46,115 - INFO - Starting object detection for 12113.jpg.
+2024-10-16 11:27:46,181 - INFO - Object detection completed and results saved for 12113.jpg.
+2024-10-16 11:27:46,182 - INFO - Starting object detection for 12114.jpg.
+2024-10-16 11:27:46,247 - INFO - Object detection completed and results saved for 12114.jpg.
+2024-10-16 11:27:46,247 - INFO - Starting object detection for 12115.jpg.
+2024-10-16 11:27:46,308 - INFO - Object detection completed and results saved for 12115.jpg.
+2024-10-16 11:27:46,309 - INFO - Starting object detection for 12116.jpg.
+2024-10-16 11:27:46,371 - INFO - Object detection completed and results saved for 12116.jpg.
+2024-10-16 11:27:46,371 - INFO - Starting object detection for 12117.jpg.
+2024-10-16 11:27:46,435 - INFO - Object detection completed and results saved for 12117.jpg.
+2024-10-16 11:27:46,435 - INFO - Starting object detection for 12118.jpg.
+2024-10-16 11:27:46,489 - INFO - Object detection completed and results saved for 12118.jpg.
+2024-10-16 11:27:46,489 - INFO - Starting object detection for 12119.jpg.
+2024-10-16 11:27:46,551 - INFO - Object detection completed and results saved for 12119.jpg.
+2024-10-16 11:27:46,551 - INFO - Starting object detection for 12120.jpg.
+2024-10-16 11:27:46,608 - INFO - Object detection completed and results saved for 12120.jpg.
+2024-10-16 11:27:46,608 - INFO - Starting object detection for 12121.jpg.
+2024-10-16 11:27:46,667 - INFO - Object detection completed and results saved for 12121.jpg.
+2024-10-16 11:27:46,668 - INFO - Starting object detection for 12122.jpg.
+2024-10-16 11:27:46,722 - INFO - Object detection completed and results saved for 12122.jpg.
+2024-10-16 11:27:46,723 - INFO - Starting object detection for 12123.jpg.
+2024-10-16 11:27:46,771 - INFO - Object detection completed and results saved for 12123.jpg.
+2024-10-16 11:27:46,771 - INFO - Starting object detection for 12124.jpg.
+2024-10-16 11:27:46,829 - INFO - Object detection completed and results saved for 12124.jpg.
+2024-10-16 11:27:46,829 - INFO - Starting object detection for 12125.jpg.
+2024-10-16 11:27:46,882 - INFO - Object detection completed and results saved for 12125.jpg.
+2024-10-16 11:27:46,882 - INFO - Starting object detection for 12126.jpg.
+2024-10-16 11:27:46,944 - INFO - Object detection completed and results saved for 12126.jpg.
+2024-10-16 11:27:46,944 - INFO - Starting object detection for 12127.jpg.
+2024-10-16 11:27:46,992 - INFO - Object detection completed and results saved for 12127.jpg.
+2024-10-16 11:27:46,992 - INFO - Starting object detection for 12128.jpg.
+2024-10-16 11:27:47,046 - INFO - Object detection completed and results saved for 12128.jpg.
+2024-10-16 11:27:47,046 - INFO - Starting object detection for 12129.jpg.
+2024-10-16 11:27:47,092 - INFO - Object detection completed and results saved for 12129.jpg.
+2024-10-16 11:27:47,092 - INFO - Starting object detection for 12130.jpg.
+2024-10-16 11:27:47,135 - INFO - Object detection completed and results saved for 12130.jpg.
+2024-10-16 11:27:47,135 - INFO - Starting object detection for 12131.jpg.
+2024-10-16 11:27:47,182 - INFO - Object detection completed and results saved for 12131.jpg.
+2024-10-16 11:27:47,182 - INFO - Starting object detection for 12132.jpg.
+2024-10-16 11:27:47,231 - INFO - Object detection completed and results saved for 12132.jpg.
+2024-10-16 11:27:47,232 - INFO - Starting object detection for 12133.jpg.
+2024-10-16 11:27:47,286 - INFO - Object detection completed and results saved for 12133.jpg.
+2024-10-16 11:27:47,286 - INFO - Starting object detection for 12134.jpg.
+2024-10-16 11:27:47,333 - INFO - Object detection completed and results saved for 12134.jpg.
+2024-10-16 11:27:47,333 - INFO - Starting object detection for 12135.jpg.
+2024-10-16 11:27:47,387 - INFO - Object detection completed and results saved for 12135.jpg.
+2024-10-16 11:27:47,387 - INFO - Starting object detection for 12136.jpg.
+2024-10-16 11:27:47,433 - INFO - Object detection completed and results saved for 12136.jpg.
+2024-10-16 11:27:47,434 - INFO - Starting object detection for 12137.jpg.
+2024-10-16 11:27:47,488 - INFO - Object detection completed and results saved for 12137.jpg.
+2024-10-16 11:27:47,488 - INFO - Starting object detection for 12138.jpg.
+2024-10-16 11:27:47,540 - INFO - Object detection completed and results saved for 12138.jpg.
+2024-10-16 11:27:47,540 - INFO - Starting object detection for 12139.jpg.
+2024-10-16 11:27:47,590 - INFO - Object detection completed and results saved for 12139.jpg.
+2024-10-16 11:27:47,590 - INFO - Starting object detection for 12140.jpg.
+2024-10-16 11:27:47,658 - INFO - Object detection completed and results saved for 12140.jpg.
+2024-10-16 11:27:47,658 - INFO - Starting object detection for 12141.jpg.
+2024-10-16 11:27:47,737 - INFO - Object detection completed and results saved for 12141.jpg.
+2024-10-16 11:27:47,737 - INFO - Starting object detection for 12142.jpg.
+2024-10-16 11:27:47,796 - INFO - Object detection completed and results saved for 12142.jpg.
+2024-10-16 11:27:47,796 - INFO - Starting object detection for 12143.jpg.
+2024-10-16 11:27:47,867 - INFO - Object detection completed and results saved for 12143.jpg.
+2024-10-16 11:27:47,868 - INFO - Starting object detection for 12144.jpg.
+2024-10-16 11:27:47,944 - INFO - Object detection completed and results saved for 12144.jpg.
+2024-10-16 11:27:47,945 - INFO - Starting object detection for 12145.jpg.
+2024-10-16 11:27:48,022 - INFO - Object detection completed and results saved for 12145.jpg.
+2024-10-16 11:27:48,022 - INFO - Starting object detection for 12146.jpg.
+2024-10-16 11:27:48,095 - INFO - Object detection completed and results saved for 12146.jpg.
+2024-10-16 11:27:48,095 - INFO - Starting object detection for 12147.jpg.
+2024-10-16 11:27:48,153 - INFO - Object detection completed and results saved for 12147.jpg.
+2024-10-16 11:27:48,153 - INFO - Starting object detection for 12148.jpg.
+2024-10-16 11:27:48,222 - INFO - Object detection completed and results saved for 12148.jpg.
+2024-10-16 11:27:48,222 - INFO - Starting object detection for 12149.jpg.
+2024-10-16 11:27:48,289 - INFO - Object detection completed and results saved for 12149.jpg.
+2024-10-16 11:27:48,290 - INFO - Starting object detection for 12150.jpg.
+2024-10-16 11:27:48,350 - INFO - Object detection completed and results saved for 12150.jpg.
+2024-10-16 11:27:48,350 - INFO - Starting object detection for 12151.jpg.
+2024-10-16 11:27:48,415 - INFO - Object detection completed and results saved for 12151.jpg.
+2024-10-16 11:27:48,415 - INFO - Starting object detection for 12152.jpg.
+2024-10-16 11:27:48,487 - INFO - Object detection completed and results saved for 12152.jpg.
+2024-10-16 11:27:48,487 - INFO - Starting object detection for 12153.jpg.
+2024-10-16 11:27:48,556 - INFO - Object detection completed and results saved for 12153.jpg.
+2024-10-16 11:27:48,557 - INFO - Starting object detection for 12154.jpg.
+2024-10-16 11:27:48,628 - INFO - Object detection completed and results saved for 12154.jpg.
+2024-10-16 11:27:48,629 - INFO - Starting object detection for 12155.jpg.
+2024-10-16 11:27:48,694 - INFO - Object detection completed and results saved for 12155.jpg.
+2024-10-16 11:27:48,694 - INFO - Starting object detection for 12156.jpg.
+2024-10-16 11:27:48,753 - INFO - Object detection completed and results saved for 12156.jpg.
+2024-10-16 11:27:48,753 - INFO - Starting object detection for 12157.jpg.
+2024-10-16 11:27:48,822 - INFO - Object detection completed and results saved for 12157.jpg.
+2024-10-16 11:27:48,823 - INFO - Starting object detection for 12158.jpg.
+2024-10-16 11:27:48,883 - INFO - Object detection completed and results saved for 12158.jpg.
+2024-10-16 11:27:48,883 - INFO - Starting object detection for 12159.jpg.
+2024-10-16 11:27:48,943 - INFO - Object detection completed and results saved for 12159.jpg.
+2024-10-16 11:27:48,943 - INFO - Starting object detection for 12160.jpg.
+2024-10-16 11:27:49,014 - INFO - Object detection completed and results saved for 12160.jpg.
+2024-10-16 11:27:49,015 - INFO - Starting object detection for 12161.jpg.
+2024-10-16 11:27:49,112 - INFO - Object detection completed and results saved for 12161.jpg.
+2024-10-16 11:27:49,112 - INFO - Starting object detection for 12162.jpg.
+2024-10-16 11:27:49,181 - INFO - Object detection completed and results saved for 12162.jpg.
+2024-10-16 11:27:49,182 - INFO - Starting object detection for 12163.jpg.
+2024-10-16 11:27:49,255 - INFO - Object detection completed and results saved for 12163.jpg.
+2024-10-16 11:27:49,255 - INFO - Starting object detection for 12164.jpg.
+2024-10-16 11:27:49,347 - INFO - Object detection completed and results saved for 12164.jpg.
+2024-10-16 11:27:49,347 - INFO - Starting object detection for 12165.jpg.
+2024-10-16 11:27:49,408 - INFO - Object detection completed and results saved for 12165.jpg.
+2024-10-16 11:27:49,408 - INFO - Starting object detection for 12166.jpg.
+2024-10-16 11:27:49,463 - INFO - Object detection completed and results saved for 12166.jpg.
+2024-10-16 11:27:49,463 - INFO - Starting object detection for 12167.jpg.
+2024-10-16 11:27:49,519 - INFO - Object detection completed and results saved for 12167.jpg.
+2024-10-16 11:27:49,520 - INFO - Starting object detection for 12168.jpg.
+2024-10-16 11:27:49,580 - INFO - Object detection completed and results saved for 12168.jpg.
+2024-10-16 11:27:49,581 - INFO - Starting object detection for 12169.jpg.
+2024-10-16 11:27:49,632 - INFO - Object detection completed and results saved for 12169.jpg.
+2024-10-16 11:27:49,632 - INFO - Starting object detection for 12170.jpg.
+2024-10-16 11:27:49,692 - INFO - Object detection completed and results saved for 12170.jpg.
+2024-10-16 11:27:49,692 - INFO - Starting object detection for 12171.jpg.
+2024-10-16 11:27:49,770 - INFO - Object detection completed and results saved for 12171.jpg.
+2024-10-16 11:27:49,770 - INFO - Starting object detection for 12172.jpg.
+2024-10-16 11:27:49,830 - INFO - Object detection completed and results saved for 12172.jpg.
+2024-10-16 11:27:49,830 - INFO - Starting object detection for 12173.jpg.
+2024-10-16 11:27:49,889 - INFO - Object detection completed and results saved for 12173.jpg.
+2024-10-16 11:27:49,889 - INFO - Starting object detection for 12174.jpg.
+2024-10-16 11:27:49,949 - INFO - Object detection completed and results saved for 12174.jpg.
+2024-10-16 11:27:49,949 - INFO - Starting object detection for 12175.jpg.
+2024-10-16 11:27:50,019 - INFO - Object detection completed and results saved for 12175.jpg.
+2024-10-16 11:27:50,019 - INFO - Starting object detection for 12176.jpg.
+2024-10-16 11:27:50,071 - INFO - Object detection completed and results saved for 12176.jpg.
+2024-10-16 11:27:50,071 - INFO - Starting object detection for 12177.jpg.
+2024-10-16 11:27:50,132 - INFO - Object detection completed and results saved for 12177.jpg.
+2024-10-16 11:27:50,132 - INFO - Starting object detection for 12178.jpg.
+2024-10-16 11:27:50,190 - INFO - Object detection completed and results saved for 12178.jpg.
+2024-10-16 11:27:50,191 - INFO - Starting object detection for 12179.jpg.
+2024-10-16 11:27:50,243 - INFO - Object detection completed and results saved for 12179.jpg.
+2024-10-16 11:27:50,243 - INFO - Starting object detection for 12180.jpg.
+2024-10-16 11:27:50,307 - INFO - Object detection completed and results saved for 12180.jpg.
+2024-10-16 11:27:50,307 - INFO - Starting object detection for 12181.jpg.
+2024-10-16 11:27:50,377 - INFO - Object detection completed and results saved for 12181.jpg.
+2024-10-16 11:27:50,377 - INFO - Starting object detection for 12182.jpg.
+2024-10-16 11:27:50,454 - INFO - Object detection completed and results saved for 12182.jpg.
+2024-10-16 11:27:50,454 - INFO - Starting object detection for 12183.jpg.
+2024-10-16 11:27:50,528 - INFO - Object detection completed and results saved for 12183.jpg.
+2024-10-16 11:27:50,528 - INFO - Starting object detection for 12184.jpg.
+2024-10-16 11:27:50,595 - INFO - Object detection completed and results saved for 12184.jpg.
+2024-10-16 11:27:50,595 - INFO - Starting object detection for 12185.jpg.
+2024-10-16 11:27:50,652 - INFO - Object detection completed and results saved for 12185.jpg.
+2024-10-16 11:27:50,652 - INFO - Starting object detection for 12186.jpg.
+2024-10-16 11:27:50,708 - INFO - Object detection completed and results saved for 12186.jpg.
+2024-10-16 11:27:50,709 - INFO - Starting object detection for 12187.jpg.
+2024-10-16 11:27:50,763 - INFO - Object detection completed and results saved for 12187.jpg.
+2024-10-16 11:27:50,763 - INFO - Starting object detection for 12188.jpg.
+2024-10-16 11:27:50,820 - INFO - Object detection completed and results saved for 12188.jpg.
+2024-10-16 11:27:50,820 - INFO - Starting object detection for 12189.jpg.
+2024-10-16 11:27:50,872 - INFO - Object detection completed and results saved for 12189.jpg.
+2024-10-16 11:27:50,873 - INFO - Starting object detection for 12190.jpg.
+2024-10-16 11:27:50,927 - INFO - Object detection completed and results saved for 12190.jpg.
+2024-10-16 11:27:50,927 - INFO - Starting object detection for 12191.jpg.
+2024-10-16 11:27:50,975 - INFO - Object detection completed and results saved for 12191.jpg.
+2024-10-16 11:27:50,975 - INFO - Starting object detection for 12192.jpg.
+2024-10-16 11:27:51,037 - INFO - Object detection completed and results saved for 12192.jpg.
+2024-10-16 11:27:51,037 - INFO - Starting object detection for 12194.jpg.
+2024-10-16 11:27:51,090 - INFO - Object detection completed and results saved for 12194.jpg.
+2024-10-16 11:27:51,090 - INFO - Starting object detection for 12195.jpg.
+2024-10-16 11:27:51,139 - INFO - Object detection completed and results saved for 12195.jpg.
+2024-10-16 11:27:51,139 - INFO - Starting object detection for 12196.jpg.
+2024-10-16 11:27:51,182 - INFO - Object detection completed and results saved for 12196.jpg.
+2024-10-16 11:27:51,182 - INFO - Starting object detection for 12197.jpg.
+2024-10-16 11:27:51,233 - INFO - Object detection completed and results saved for 12197.jpg.
+2024-10-16 11:27:51,233 - INFO - Starting object detection for 12198.jpg.
+2024-10-16 11:27:51,282 - INFO - Object detection completed and results saved for 12198.jpg.
+2024-10-16 11:27:51,283 - INFO - Starting object detection for 12199.jpg.
+2024-10-16 11:27:51,329 - INFO - Object detection completed and results saved for 12199.jpg.
+2024-10-16 11:27:51,329 - INFO - Starting object detection for 12200.jpg.
+2024-10-16 11:27:51,372 - INFO - Object detection completed and results saved for 12200.jpg.
+2024-10-16 11:27:51,372 - INFO - Starting object detection for 12201.jpg.
+2024-10-16 11:27:51,417 - INFO - Object detection completed and results saved for 12201.jpg.
+2024-10-16 11:27:51,418 - INFO - Starting object detection for 12202.jpg.
+2024-10-16 11:27:51,466 - INFO - Object detection completed and results saved for 12202.jpg.
+2024-10-16 11:27:51,466 - INFO - Starting object detection for 12203.jpg.
+2024-10-16 11:27:51,526 - INFO - Object detection completed and results saved for 12203.jpg.
+2024-10-16 11:27:51,526 - INFO - Starting object detection for 12204.jpg.
+2024-10-16 11:27:51,580 - INFO - Object detection completed and results saved for 12204.jpg.
+2024-10-16 11:27:51,580 - INFO - Starting object detection for 12205.jpg.
+2024-10-16 11:27:51,653 - INFO - Object detection completed and results saved for 12205.jpg.
+2024-10-16 11:27:51,653 - INFO - Starting object detection for 12206.jpg.
+2024-10-16 11:27:51,707 - INFO - Object detection completed and results saved for 12206.jpg.
+2024-10-16 11:27:51,708 - INFO - Starting object detection for 12207.jpg.
+2024-10-16 11:27:51,761 - INFO - Object detection completed and results saved for 12207.jpg.
+2024-10-16 11:27:51,761 - INFO - Starting object detection for 12208.jpg.
+2024-10-16 11:27:51,824 - INFO - Object detection completed and results saved for 12208.jpg.
+2024-10-16 11:27:51,825 - INFO - Starting object detection for 12209.jpg.
+2024-10-16 11:27:51,887 - INFO - Object detection completed and results saved for 12209.jpg.
+2024-10-16 11:27:51,887 - INFO - Starting object detection for 12210.jpg.
+2024-10-16 11:27:51,957 - INFO - Object detection completed and results saved for 12210.jpg.
+2024-10-16 11:27:51,957 - INFO - Starting object detection for 12211.jpg.
+2024-10-16 11:27:52,009 - INFO - Object detection completed and results saved for 12211.jpg.
+2024-10-16 11:27:52,009 - INFO - Starting object detection for 12212.jpg.
+2024-10-16 11:27:52,072 - INFO - Object detection completed and results saved for 12212.jpg.
+2024-10-16 11:27:52,073 - INFO - Starting object detection for 12213.jpg.
+2024-10-16 11:27:52,124 - INFO - Object detection completed and results saved for 12213.jpg.
+2024-10-16 11:27:52,125 - INFO - Starting object detection for 12214.jpg.
+2024-10-16 11:27:52,191 - INFO - Object detection completed and results saved for 12214.jpg.
+2024-10-16 11:27:52,191 - INFO - Starting object detection for 12215.jpg.
+2024-10-16 11:27:52,247 - INFO - Object detection completed and results saved for 12215.jpg.
+2024-10-16 11:27:52,248 - INFO - Starting object detection for 12216.jpg.
+2024-10-16 11:27:52,307 - INFO - Object detection completed and results saved for 12216.jpg.
+2024-10-16 11:27:52,308 - INFO - Starting object detection for 12217.jpg.
+2024-10-16 11:27:52,379 - INFO - Object detection completed and results saved for 12217.jpg.
+2024-10-16 11:27:52,379 - INFO - Starting object detection for 12218.jpg.
+2024-10-16 11:27:52,444 - INFO - Object detection completed and results saved for 12218.jpg.
+2024-10-16 11:27:52,444 - INFO - Starting object detection for 12219.jpg.
+2024-10-16 11:27:52,504 - INFO - Object detection completed and results saved for 12219.jpg.
+2024-10-16 11:27:52,504 - INFO - Starting object detection for 12220.jpg.
+2024-10-16 11:27:52,567 - INFO - Object detection completed and results saved for 12220.jpg.
+2024-10-16 11:27:52,567 - INFO - Starting object detection for 12221.jpg.
+2024-10-16 11:27:52,642 - INFO - Object detection completed and results saved for 12221.jpg.
+2024-10-16 11:27:52,642 - INFO - Starting object detection for 12222.jpg.
+2024-10-16 11:27:52,718 - INFO - Object detection completed and results saved for 12222.jpg.
+2024-10-16 11:27:52,718 - INFO - Starting object detection for 12223.jpg.
+2024-10-16 11:27:52,799 - INFO - Object detection completed and results saved for 12223.jpg.
+2024-10-16 11:27:52,800 - INFO - Starting object detection for 12225.jpg.
+2024-10-16 11:27:52,862 - INFO - Object detection completed and results saved for 12225.jpg.
+2024-10-16 11:27:52,862 - INFO - Starting object detection for 12226.jpg.
+2024-10-16 11:27:52,945 - INFO - Object detection completed and results saved for 12226.jpg.
+2024-10-16 11:27:52,945 - INFO - Starting object detection for 12227.jpg.
+2024-10-16 11:27:53,011 - INFO - Object detection completed and results saved for 12227.jpg.
+2024-10-16 11:27:53,011 - INFO - Starting object detection for 12228.jpg.
+2024-10-16 11:27:53,087 - INFO - Object detection completed and results saved for 12228.jpg.
+2024-10-16 11:27:53,088 - INFO - Starting object detection for 12229.jpg.
+2024-10-16 11:27:53,155 - INFO - Object detection completed and results saved for 12229.jpg.
+2024-10-16 11:27:53,155 - INFO - Starting object detection for 12230.jpg.
+2024-10-16 11:27:53,215 - INFO - Object detection completed and results saved for 12230.jpg.
+2024-10-16 11:27:53,215 - INFO - Starting object detection for 12231.jpg.
+2024-10-16 11:27:53,278 - INFO - Object detection completed and results saved for 12231.jpg.
+2024-10-16 11:27:53,279 - INFO - Starting object detection for 12232.jpg.
+2024-10-16 11:27:53,346 - INFO - Object detection completed and results saved for 12232.jpg.
+2024-10-16 11:27:53,347 - INFO - Starting object detection for 12233.jpg.
+2024-10-16 11:27:53,402 - INFO - Object detection completed and results saved for 12233.jpg.
+2024-10-16 11:27:53,402 - INFO - Starting object detection for 12234.jpg.
+2024-10-16 11:27:53,463 - INFO - Object detection completed and results saved for 12234.jpg.
+2024-10-16 11:27:53,463 - INFO - Starting object detection for 12235.jpg.
+2024-10-16 11:27:53,516 - INFO - Object detection completed and results saved for 12235.jpg.
+2024-10-16 11:27:53,517 - INFO - Starting object detection for 12236.jpg.
+2024-10-16 11:27:53,579 - INFO - Object detection completed and results saved for 12236.jpg.
+2024-10-16 11:27:53,579 - INFO - Starting object detection for 12238.jpg.
+2024-10-16 11:27:53,645 - INFO - Object detection completed and results saved for 12238.jpg.
+2024-10-16 11:27:53,645 - INFO - Starting object detection for 12239.jpg.
+2024-10-16 11:27:53,703 - INFO - Object detection completed and results saved for 12239.jpg.
+2024-10-16 11:27:53,703 - INFO - Starting object detection for 12240.jpg.
+2024-10-16 11:27:53,764 - INFO - Object detection completed and results saved for 12240.jpg.
+2024-10-16 11:27:53,764 - INFO - Starting object detection for 12241.jpg.
+2024-10-16 11:27:53,817 - INFO - Object detection completed and results saved for 12241.jpg.
+2024-10-16 11:27:53,817 - INFO - Starting object detection for 12242.jpg.
+2024-10-16 11:27:53,881 - INFO - Object detection completed and results saved for 12242.jpg.
+2024-10-16 11:27:53,881 - INFO - Starting object detection for 12243.jpg.
+2024-10-16 11:27:53,951 - INFO - Object detection completed and results saved for 12243.jpg.
+2024-10-16 11:27:53,951 - INFO - Starting object detection for 12244.jpg.
+2024-10-16 11:27:54,022 - INFO - Object detection completed and results saved for 12244.jpg.
+2024-10-16 11:27:54,022 - INFO - Starting object detection for 12245.jpg.
+2024-10-16 11:27:54,099 - INFO - Object detection completed and results saved for 12245.jpg.
+2024-10-16 11:27:54,099 - INFO - Starting object detection for 12246.jpg.
+2024-10-16 11:27:54,188 - INFO - Object detection completed and results saved for 12246.jpg.
+2024-10-16 11:27:54,189 - INFO - Starting object detection for 12248.jpg.
+2024-10-16 11:27:54,255 - INFO - Object detection completed and results saved for 12248.jpg.
+2024-10-16 11:27:54,255 - INFO - Starting object detection for 12250.jpg.
+2024-10-16 11:27:54,314 - INFO - Object detection completed and results saved for 12250.jpg.
+2024-10-16 11:27:54,314 - INFO - Starting object detection for 12251.jpg.
+2024-10-16 11:27:54,373 - INFO - Object detection completed and results saved for 12251.jpg.
+2024-10-16 11:27:54,373 - INFO - Starting object detection for 12252.jpg.
+2024-10-16 11:27:54,430 - INFO - Object detection completed and results saved for 12252.jpg.
+2024-10-16 11:27:54,431 - INFO - Starting object detection for 12253.jpg.
+2024-10-16 11:27:54,493 - INFO - Object detection completed and results saved for 12253.jpg.
+2024-10-16 11:27:54,493 - INFO - Starting object detection for 12254.jpg.
+2024-10-16 11:27:54,554 - INFO - Object detection completed and results saved for 12254.jpg.
+2024-10-16 11:27:54,555 - INFO - Starting object detection for 12255.jpg.
+2024-10-16 11:27:54,652 - INFO - Object detection completed and results saved for 12255.jpg.
+2024-10-16 11:27:54,653 - INFO - Starting object detection for 12257.jpg.
+2024-10-16 11:27:54,750 - INFO - Object detection completed and results saved for 12257.jpg.
+2024-10-16 11:27:54,750 - INFO - Starting object detection for 12258.jpg.
+2024-10-16 11:27:54,825 - INFO - Object detection completed and results saved for 12258.jpg.
+2024-10-16 11:27:54,825 - INFO - Starting object detection for 12259.jpg.
+2024-10-16 11:27:54,908 - INFO - Object detection completed and results saved for 12259.jpg.
+2024-10-16 11:27:54,908 - INFO - Starting object detection for 12260.jpg.
+2024-10-16 11:27:54,977 - INFO - Object detection completed and results saved for 12260.jpg.
+2024-10-16 11:27:54,977 - INFO - Starting object detection for 12261.jpg.
+2024-10-16 11:27:55,042 - INFO - Object detection completed and results saved for 12261.jpg.
+2024-10-16 11:27:55,042 - INFO - Starting object detection for 12262.jpg.
+2024-10-16 11:27:55,095 - INFO - Object detection completed and results saved for 12262.jpg.
+2024-10-16 11:27:55,095 - INFO - Starting object detection for 12263.jpg.
+2024-10-16 11:27:55,156 - INFO - Object detection completed and results saved for 12263.jpg.
+2024-10-16 11:27:55,156 - INFO - Starting object detection for 12264.jpg.
+2024-10-16 11:27:55,248 - INFO - Object detection completed and results saved for 12264.jpg.
+2024-10-16 11:27:55,248 - INFO - Starting object detection for 12265.jpg.
+2024-10-16 11:27:55,332 - INFO - Object detection completed and results saved for 12265.jpg.
+2024-10-16 11:27:55,332 - INFO - Starting object detection for 12266.jpg.
+2024-10-16 11:27:55,458 - INFO - Object detection completed and results saved for 12266.jpg.
+2024-10-16 11:27:55,458 - INFO - Starting object detection for 12267.jpg.
+2024-10-16 11:27:55,549 - INFO - Object detection completed and results saved for 12267.jpg.
+2024-10-16 11:27:55,549 - INFO - Starting object detection for 12268.jpg.
+2024-10-16 11:27:55,631 - INFO - Object detection completed and results saved for 12268.jpg.
+2024-10-16 11:27:55,631 - INFO - Starting object detection for 12269.jpg.
+2024-10-16 11:27:55,700 - INFO - Object detection completed and results saved for 12269.jpg.
+2024-10-16 11:27:55,700 - INFO - Starting object detection for 12270.jpg.
+2024-10-16 11:27:55,772 - INFO - Object detection completed and results saved for 12270.jpg.
+2024-10-16 11:27:55,772 - INFO - Starting object detection for 12271.jpg.
+2024-10-16 11:27:55,844 - INFO - Object detection completed and results saved for 12271.jpg.
+2024-10-16 11:27:55,844 - INFO - Starting object detection for 12272.jpg.
+2024-10-16 11:27:55,918 - INFO - Object detection completed and results saved for 12272.jpg.
+2024-10-16 11:27:55,919 - INFO - Starting object detection for 12273.jpg.
+2024-10-16 11:27:55,996 - INFO - Object detection completed and results saved for 12273.jpg.
+2024-10-16 11:27:55,996 - INFO - Starting object detection for 12274.jpg.
+2024-10-16 11:27:56,070 - INFO - Object detection completed and results saved for 12274.jpg.
+2024-10-16 11:27:56,070 - INFO - Starting object detection for 12275.jpg.
+2024-10-16 11:27:56,147 - INFO - Object detection completed and results saved for 12275.jpg.
+2024-10-16 11:27:56,147 - INFO - Starting object detection for 12276.jpg.
+2024-10-16 11:27:56,214 - INFO - Object detection completed and results saved for 12276.jpg.
+2024-10-16 11:27:56,215 - INFO - Starting object detection for 12277.jpg.
+2024-10-16 11:27:56,275 - INFO - Object detection completed and results saved for 12277.jpg.
+2024-10-16 11:27:56,275 - INFO - Starting object detection for 12278.jpg.
+2024-10-16 11:27:56,339 - INFO - Object detection completed and results saved for 12278.jpg.
+2024-10-16 11:27:56,340 - INFO - Starting object detection for 12279.jpg.
+2024-10-16 11:27:56,410 - INFO - Object detection completed and results saved for 12279.jpg.
+2024-10-16 11:27:56,411 - INFO - Starting object detection for 12280.jpg.
+2024-10-16 11:27:56,479 - INFO - Object detection completed and results saved for 12280.jpg.
+2024-10-16 11:27:56,480 - INFO - Starting object detection for 12281.jpg.
+2024-10-16 11:27:56,547 - INFO - Object detection completed and results saved for 12281.jpg.
+2024-10-16 11:27:56,548 - INFO - Starting object detection for 12282.jpg.
+2024-10-16 11:27:56,623 - INFO - Object detection completed and results saved for 12282.jpg.
+2024-10-16 11:27:56,623 - INFO - Starting object detection for 12283.jpg.
+2024-10-16 11:27:56,696 - INFO - Object detection completed and results saved for 12283.jpg.
+2024-10-16 11:27:56,696 - INFO - Starting object detection for 12284.jpg.
+2024-10-16 11:27:56,819 - INFO - Object detection completed and results saved for 12284.jpg.
+2024-10-16 11:27:56,819 - INFO - Starting object detection for 12285.jpg.
+2024-10-16 11:27:56,906 - INFO - Object detection completed and results saved for 12285.jpg.
+2024-10-16 11:27:56,907 - INFO - Starting object detection for 12286.jpg.
+2024-10-16 11:27:56,989 - INFO - Object detection completed and results saved for 12286.jpg.
+2024-10-16 11:27:56,989 - INFO - Starting object detection for 12287.jpg.
+2024-10-16 11:27:57,053 - INFO - Object detection completed and results saved for 12287.jpg.
+2024-10-16 11:27:57,053 - INFO - Starting object detection for 12288.jpg.
+2024-10-16 11:27:57,138 - INFO - Object detection completed and results saved for 12288.jpg.
+2024-10-16 11:27:57,138 - INFO - Starting object detection for 12289.jpg.
+2024-10-16 11:27:57,220 - INFO - Object detection completed and results saved for 12289.jpg.
+2024-10-16 11:27:57,220 - INFO - Starting object detection for 12290.jpg.
+2024-10-16 11:27:57,292 - INFO - Object detection completed and results saved for 12290.jpg.
+2024-10-16 11:27:57,293 - INFO - Starting object detection for 12291.jpg.
+2024-10-16 11:27:57,369 - INFO - Object detection completed and results saved for 12291.jpg.
+2024-10-16 11:27:57,369 - INFO - Starting object detection for 12292.jpg.
+2024-10-16 11:27:57,435 - INFO - Object detection completed and results saved for 12292.jpg.
+2024-10-16 11:27:57,435 - INFO - Starting object detection for 12293.jpg.
+2024-10-16 11:27:57,504 - INFO - Object detection completed and results saved for 12293.jpg.
+2024-10-16 11:27:57,504 - INFO - Starting object detection for 12294.jpg.
+2024-10-16 11:27:57,566 - INFO - Object detection completed and results saved for 12294.jpg.
+2024-10-16 11:27:57,566 - INFO - Starting object detection for 12295.jpg.
+2024-10-16 11:27:57,624 - INFO - Object detection completed and results saved for 12295.jpg.
+2024-10-16 11:27:57,624 - INFO - Starting object detection for 12296.jpg.
+2024-10-16 11:27:57,691 - INFO - Object detection completed and results saved for 12296.jpg.
+2024-10-16 11:27:57,691 - INFO - Starting object detection for 12297.jpg.
+2024-10-16 11:27:57,752 - INFO - Object detection completed and results saved for 12297.jpg.
+2024-10-16 11:27:57,752 - INFO - Starting object detection for 12298.jpg.
+2024-10-16 11:27:57,825 - INFO - Object detection completed and results saved for 12298.jpg.
+2024-10-16 11:27:57,826 - INFO - Starting object detection for 12299.jpg.
+2024-10-16 11:27:57,888 - INFO - Object detection completed and results saved for 12299.jpg.
+2024-10-16 11:27:57,888 - INFO - Starting object detection for 12300.jpg.
+2024-10-16 11:27:57,949 - INFO - Object detection completed and results saved for 12300.jpg.
+2024-10-16 11:27:57,949 - INFO - Starting object detection for 12301.jpg.
+2024-10-16 11:27:58,012 - INFO - Object detection completed and results saved for 12301.jpg.
+2024-10-16 11:27:58,013 - INFO - Starting object detection for 12302.jpg.
+2024-10-16 11:27:58,076 - INFO - Object detection completed and results saved for 12302.jpg.
+2024-10-16 11:27:58,077 - INFO - Starting object detection for 12303.jpg.
+2024-10-16 11:27:58,136 - INFO - Object detection completed and results saved for 12303.jpg.
+2024-10-16 11:27:58,137 - INFO - Starting object detection for 12304.jpg.
+2024-10-16 11:27:58,196 - INFO - Object detection completed and results saved for 12304.jpg.
+2024-10-16 11:27:58,196 - INFO - Starting object detection for 12305.jpg.
+2024-10-16 11:27:58,255 - INFO - Object detection completed and results saved for 12305.jpg.
+2024-10-16 11:27:58,255 - INFO - Starting object detection for 12306.jpg.
+2024-10-16 11:27:58,337 - INFO - Object detection completed and results saved for 12306.jpg.
+2024-10-16 11:27:58,338 - INFO - Starting object detection for 12307.jpg.
+2024-10-16 11:27:58,406 - INFO - Object detection completed and results saved for 12307.jpg.
+2024-10-16 11:27:58,406 - INFO - Starting object detection for 12308.jpg.
+2024-10-16 11:27:58,471 - INFO - Object detection completed and results saved for 12308.jpg.
+2024-10-16 11:27:58,471 - INFO - Starting object detection for 12309.jpg.
+2024-10-16 11:27:58,526 - INFO - Object detection completed and results saved for 12309.jpg.
+2024-10-16 11:27:58,526 - INFO - Starting object detection for 12310.jpg.
+2024-10-16 11:27:58,592 - INFO - Object detection completed and results saved for 12310.jpg.
+2024-10-16 11:27:58,592 - INFO - Starting object detection for 12311.jpg.
+2024-10-16 11:27:58,650 - INFO - Object detection completed and results saved for 12311.jpg.
+2024-10-16 11:27:58,650 - INFO - Starting object detection for 12312.jpg.
+2024-10-16 11:27:58,710 - INFO - Object detection completed and results saved for 12312.jpg.
+2024-10-16 11:27:58,710 - INFO - Starting object detection for 12313.jpg.
+2024-10-16 11:27:58,764 - INFO - Object detection completed and results saved for 12313.jpg.
+2024-10-16 11:27:58,765 - INFO - Starting object detection for 12314.jpg.
+2024-10-16 11:27:58,826 - INFO - Object detection completed and results saved for 12314.jpg.
+2024-10-16 11:27:58,826 - INFO - Starting object detection for 12315.jpg.
+2024-10-16 11:27:58,887 - INFO - Object detection completed and results saved for 12315.jpg.
+2024-10-16 11:27:58,887 - INFO - Starting object detection for 12316.jpg.
+2024-10-16 11:27:58,952 - INFO - Object detection completed and results saved for 12316.jpg.
+2024-10-16 11:27:58,952 - INFO - Starting object detection for 12317.jpg.
+2024-10-16 11:27:59,010 - INFO - Object detection completed and results saved for 12317.jpg.
+2024-10-16 11:27:59,010 - INFO - Starting object detection for 12318.jpg.
+2024-10-16 11:27:59,071 - INFO - Object detection completed and results saved for 12318.jpg.
+2024-10-16 11:27:59,071 - INFO - Starting object detection for 12319.jpg.
+2024-10-16 11:27:59,129 - INFO - Object detection completed and results saved for 12319.jpg.
+2024-10-16 11:27:59,129 - INFO - Starting object detection for 12320.jpg.
+2024-10-16 11:27:59,192 - INFO - Object detection completed and results saved for 12320.jpg.
+2024-10-16 11:27:59,193 - INFO - Starting object detection for 12321.jpg.
+2024-10-16 11:27:59,267 - INFO - Object detection completed and results saved for 12321.jpg.
+2024-10-16 11:27:59,267 - INFO - Starting object detection for 12322.jpg.
+2024-10-16 11:27:59,330 - INFO - Object detection completed and results saved for 12322.jpg.
+2024-10-16 11:27:59,330 - INFO - Starting object detection for 12323.jpg.
+2024-10-16 11:27:59,408 - INFO - Object detection completed and results saved for 12323.jpg.
+2024-10-16 11:27:59,409 - INFO - Starting object detection for 12324.jpg.
+2024-10-16 11:27:59,499 - INFO - Object detection completed and results saved for 12324.jpg.
+2024-10-16 11:27:59,499 - INFO - Starting object detection for 12325.jpg.
+2024-10-16 11:27:59,576 - INFO - Object detection completed and results saved for 12325.jpg.
+2024-10-16 11:27:59,577 - INFO - Starting object detection for 12326.jpg.
+2024-10-16 11:27:59,660 - INFO - Object detection completed and results saved for 12326.jpg.
+2024-10-16 11:27:59,660 - INFO - Starting object detection for 12327.jpg.
+2024-10-16 11:27:59,718 - INFO - Object detection completed and results saved for 12327.jpg.
+2024-10-16 11:27:59,719 - INFO - Starting object detection for 12328.jpg.
+2024-10-16 11:27:59,778 - INFO - Object detection completed and results saved for 12328.jpg.
+2024-10-16 11:27:59,778 - INFO - Starting object detection for 12329.jpg.
+2024-10-16 11:27:59,834 - INFO - Object detection completed and results saved for 12329.jpg.
+2024-10-16 11:27:59,834 - INFO - Starting object detection for 12330.jpg.
+2024-10-16 11:27:59,884 - INFO - Object detection completed and results saved for 12330.jpg.
+2024-10-16 11:27:59,884 - INFO - Starting object detection for 12331.jpg.
+2024-10-16 11:27:59,938 - INFO - Object detection completed and results saved for 12331.jpg.
+2024-10-16 11:27:59,938 - INFO - Starting object detection for 12332.jpg.
+2024-10-16 11:27:59,994 - INFO - Object detection completed and results saved for 12332.jpg.
+2024-10-16 11:27:59,994 - INFO - Starting object detection for 12333.jpg.
+2024-10-16 11:28:00,054 - INFO - Object detection completed and results saved for 12333.jpg.
+2024-10-16 11:28:00,054 - INFO - Starting object detection for 12334.jpg.
+2024-10-16 11:28:00,104 - INFO - Object detection completed and results saved for 12334.jpg.
+2024-10-16 11:28:00,104 - INFO - Starting object detection for 12335.jpg.
+2024-10-16 11:28:00,165 - INFO - Object detection completed and results saved for 12335.jpg.
+2024-10-16 11:28:00,165 - INFO - Starting object detection for 12336.jpg.
+2024-10-16 11:28:00,222 - INFO - Object detection completed and results saved for 12336.jpg.
+2024-10-16 11:28:00,222 - INFO - Starting object detection for 12338.jpg.
+2024-10-16 11:28:00,279 - INFO - Object detection completed and results saved for 12338.jpg.
+2024-10-16 11:28:00,279 - INFO - Starting object detection for 12339.jpg.
+2024-10-16 11:28:00,348 - INFO - Object detection completed and results saved for 12339.jpg.
+2024-10-16 11:28:00,348 - INFO - Starting object detection for 12340.jpg.
+2024-10-16 11:28:00,409 - INFO - Object detection completed and results saved for 12340.jpg.
+2024-10-16 11:28:00,409 - INFO - Starting object detection for 12341.jpg.
+2024-10-16 11:28:00,472 - INFO - Object detection completed and results saved for 12341.jpg.
+2024-10-16 11:28:00,472 - INFO - Starting object detection for 12342.jpg.
+2024-10-16 11:28:00,539 - INFO - Object detection completed and results saved for 12342.jpg.
+2024-10-16 11:28:00,540 - INFO - Starting object detection for 12343.jpg.
+2024-10-16 11:28:00,605 - INFO - Object detection completed and results saved for 12343.jpg.
+2024-10-16 11:28:00,605 - INFO - Starting object detection for 12344.jpg.
+2024-10-16 11:28:00,686 - INFO - Object detection completed and results saved for 12344.jpg.
+2024-10-16 11:28:00,686 - INFO - Starting object detection for 12345.jpg.
+2024-10-16 11:28:00,766 - INFO - Object detection completed and results saved for 12345.jpg.
+2024-10-16 11:28:00,766 - INFO - Starting object detection for 12346.jpg.
+2024-10-16 11:28:00,840 - INFO - Object detection completed and results saved for 12346.jpg.
+2024-10-16 11:28:00,840 - INFO - Starting object detection for 12347.jpg.
+2024-10-16 11:28:00,917 - INFO - Object detection completed and results saved for 12347.jpg.
+2024-10-16 11:28:00,917 - INFO - Starting object detection for 12348.jpg.
+2024-10-16 11:28:00,997 - INFO - Object detection completed and results saved for 12348.jpg.
+2024-10-16 11:28:00,997 - INFO - Starting object detection for 12349.jpg.
+2024-10-16 11:28:01,069 - INFO - Object detection completed and results saved for 12349.jpg.
+2024-10-16 11:28:01,069 - INFO - Starting object detection for 12350.jpg.
+2024-10-16 11:28:01,143 - INFO - Object detection completed and results saved for 12350.jpg.
+2024-10-16 11:28:01,143 - INFO - Starting object detection for 12351.jpg.
+2024-10-16 11:28:01,233 - INFO - Object detection completed and results saved for 12351.jpg.
+2024-10-16 11:28:01,233 - INFO - Starting object detection for 12352.jpg.
+2024-10-16 11:28:01,309 - INFO - Object detection completed and results saved for 12352.jpg.
+2024-10-16 11:28:01,310 - INFO - Starting object detection for 12354.jpg.
+2024-10-16 11:28:01,374 - INFO - Object detection completed and results saved for 12354.jpg.
+2024-10-16 11:28:01,375 - INFO - Starting object detection for 12355.jpg.
+2024-10-16 11:28:01,447 - INFO - Object detection completed and results saved for 12355.jpg.
+2024-10-16 11:28:01,447 - INFO - Starting object detection for 12356.jpg.
+2024-10-16 11:28:01,530 - INFO - Object detection completed and results saved for 12356.jpg.
+2024-10-16 11:28:01,531 - INFO - Starting object detection for 12357.jpg.
+2024-10-16 11:28:01,601 - INFO - Object detection completed and results saved for 12357.jpg.
+2024-10-16 11:28:01,601 - INFO - Starting object detection for 12358.jpg.
+2024-10-16 11:28:01,687 - INFO - Object detection completed and results saved for 12358.jpg.
+2024-10-16 11:28:01,688 - INFO - Starting object detection for 12359.jpg.
+2024-10-16 11:28:01,781 - INFO - Object detection completed and results saved for 12359.jpg.
+2024-10-16 11:28:01,782 - INFO - Starting object detection for 12360.jpg.
+2024-10-16 11:28:01,882 - INFO - Object detection completed and results saved for 12360.jpg.
+2024-10-16 11:28:01,883 - INFO - Starting object detection for 12361.jpg.
+2024-10-16 11:28:01,961 - INFO - Object detection completed and results saved for 12361.jpg.
+2024-10-16 11:28:01,961 - INFO - Starting object detection for 12362.jpg.
+2024-10-16 11:28:02,038 - INFO - Object detection completed and results saved for 12362.jpg.
+2024-10-16 11:28:02,039 - INFO - Starting object detection for 12363.jpg.
+2024-10-16 11:28:02,121 - INFO - Object detection completed and results saved for 12363.jpg.
+2024-10-16 11:28:02,122 - INFO - Starting object detection for 12364.jpg.
+2024-10-16 11:28:02,195 - INFO - Object detection completed and results saved for 12364.jpg.
+2024-10-16 11:28:02,195 - INFO - Starting object detection for 12365.jpg.
+2024-10-16 11:28:02,287 - INFO - Object detection completed and results saved for 12365.jpg.
+2024-10-16 11:28:02,287 - INFO - Starting object detection for 12366.jpg.
+2024-10-16 11:28:02,364 - INFO - Object detection completed and results saved for 12366.jpg.
+2024-10-16 11:28:02,365 - INFO - Starting object detection for 12367.jpg.
+2024-10-16 11:28:02,445 - INFO - Object detection completed and results saved for 12367.jpg.
+2024-10-16 11:28:02,445 - INFO - Starting object detection for 12368.jpg.
+2024-10-16 11:28:02,520 - INFO - Object detection completed and results saved for 12368.jpg.
+2024-10-16 11:28:02,521 - INFO - Starting object detection for 12369.jpg.
+2024-10-16 11:28:02,593 - INFO - Object detection completed and results saved for 12369.jpg.
+2024-10-16 11:28:02,594 - INFO - Starting object detection for 12370.jpg.
+2024-10-16 11:28:02,668 - INFO - Object detection completed and results saved for 12370.jpg.
+2024-10-16 11:28:02,668 - INFO - Starting object detection for 12371.jpg.
+2024-10-16 11:28:02,738 - INFO - Object detection completed and results saved for 12371.jpg.
+2024-10-16 11:28:02,738 - INFO - Starting object detection for 12372.jpg.
+2024-10-16 11:28:02,814 - INFO - Object detection completed and results saved for 12372.jpg.
+2024-10-16 11:28:02,814 - INFO - Starting object detection for 12373.jpg.
+2024-10-16 11:28:02,899 - INFO - Object detection completed and results saved for 12373.jpg.
+2024-10-16 11:28:02,899 - INFO - Starting object detection for 12374.jpg.
+2024-10-16 11:28:02,979 - INFO - Object detection completed and results saved for 12374.jpg.
+2024-10-16 11:28:02,979 - INFO - Starting object detection for 12375.jpg.
+2024-10-16 11:28:03,072 - INFO - Object detection completed and results saved for 12375.jpg.
+2024-10-16 11:28:03,072 - INFO - Starting object detection for 12376.jpg.
+2024-10-16 11:28:03,154 - INFO - Object detection completed and results saved for 12376.jpg.
+2024-10-16 11:28:03,155 - INFO - Starting object detection for 12377.jpg.
+2024-10-16 11:28:03,238 - INFO - Object detection completed and results saved for 12377.jpg.
+2024-10-16 11:28:03,239 - INFO - Starting object detection for 12378.jpg.
+2024-10-16 11:28:03,313 - INFO - Object detection completed and results saved for 12378.jpg.
+2024-10-16 11:28:03,313 - INFO - Starting object detection for 12379.jpg.
+2024-10-16 11:28:03,382 - INFO - Object detection completed and results saved for 12379.jpg.
+2024-10-16 11:28:03,382 - INFO - Starting object detection for 12380.jpg.
+2024-10-16 11:28:03,447 - INFO - Object detection completed and results saved for 12380.jpg.
+2024-10-16 11:28:03,447 - INFO - Starting object detection for 12381.jpg.
+2024-10-16 11:28:03,510 - INFO - Object detection completed and results saved for 12381.jpg.
+2024-10-16 11:28:03,510 - INFO - Starting object detection for 12382.jpg.
+2024-10-16 11:28:03,571 - INFO - Object detection completed and results saved for 12382.jpg.
+2024-10-16 11:28:03,571 - INFO - Starting object detection for 12383.jpg.
+2024-10-16 11:28:03,621 - INFO - Object detection completed and results saved for 12383.jpg.
+2024-10-16 11:28:03,621 - INFO - Starting object detection for 12384.jpg.
+2024-10-16 11:28:03,667 - INFO - Object detection completed and results saved for 12384.jpg.
+2024-10-16 11:28:03,667 - INFO - Starting object detection for 12385.jpg.
+2024-10-16 11:28:03,721 - INFO - Object detection completed and results saved for 12385.jpg.
+2024-10-16 11:28:03,721 - INFO - Starting object detection for 12386.jpg.
+2024-10-16 11:28:03,776 - INFO - Object detection completed and results saved for 12386.jpg.
+2024-10-16 11:28:03,776 - INFO - Starting object detection for 12387.jpg.
+2024-10-16 11:28:03,827 - INFO - Object detection completed and results saved for 12387.jpg.
+2024-10-16 11:28:03,828 - INFO - Starting object detection for 12388.jpg.
+2024-10-16 11:28:03,891 - INFO - Object detection completed and results saved for 12388.jpg.
+2024-10-16 11:28:03,892 - INFO - Starting object detection for 12389.jpg.
+2024-10-16 11:28:03,945 - INFO - Object detection completed and results saved for 12389.jpg.
+2024-10-16 11:28:03,945 - INFO - Starting object detection for 12390.jpg.
+2024-10-16 11:28:03,995 - INFO - Object detection completed and results saved for 12390.jpg.
+2024-10-16 11:28:03,996 - INFO - Starting object detection for 12391.jpg.
+2024-10-16 11:28:04,063 - INFO - Object detection completed and results saved for 12391.jpg.
+2024-10-16 11:28:04,063 - INFO - Starting object detection for 12392.jpg.
+2024-10-16 11:28:04,117 - INFO - Object detection completed and results saved for 12392.jpg.
+2024-10-16 11:28:04,117 - INFO - Starting object detection for 12393.jpg.
+2024-10-16 11:28:04,173 - INFO - Object detection completed and results saved for 12393.jpg.
+2024-10-16 11:28:04,173 - INFO - Starting object detection for 12394.jpg.
+2024-10-16 11:28:04,232 - INFO - Object detection completed and results saved for 12394.jpg.
+2024-10-16 11:28:04,232 - INFO - Starting object detection for 12395.jpg.
+2024-10-16 11:28:04,298 - INFO - Object detection completed and results saved for 12395.jpg.
+2024-10-16 11:28:04,298 - INFO - Starting object detection for 12396.jpg.
+2024-10-16 11:28:04,352 - INFO - Object detection completed and results saved for 12396.jpg.
+2024-10-16 11:28:04,352 - INFO - Starting object detection for 12397.jpg.
+2024-10-16 11:28:04,411 - INFO - Object detection completed and results saved for 12397.jpg.
+2024-10-16 11:28:04,411 - INFO - Starting object detection for 12398.jpg.
+2024-10-16 11:28:04,476 - INFO - Object detection completed and results saved for 12398.jpg.
+2024-10-16 11:28:04,477 - INFO - Starting object detection for 12399.jpg.
+2024-10-16 11:28:04,559 - INFO - Object detection completed and results saved for 12399.jpg.
+2024-10-16 11:28:04,559 - INFO - Starting object detection for 12400.jpg.
+2024-10-16 11:28:04,629 - INFO - Object detection completed and results saved for 12400.jpg.
+2024-10-16 11:28:04,630 - INFO - Starting object detection for 12401.jpg.
+2024-10-16 11:28:04,681 - INFO - Object detection completed and results saved for 12401.jpg.
+2024-10-16 11:28:04,681 - INFO - Starting object detection for 12402.jpg.
+2024-10-16 11:28:04,745 - INFO - Object detection completed and results saved for 12402.jpg.
+2024-10-16 11:28:04,745 - INFO - Starting object detection for 12403.jpg.
+2024-10-16 11:28:04,802 - INFO - Object detection completed and results saved for 12403.jpg.
+2024-10-16 11:28:04,803 - INFO - Starting object detection for 12404.jpg.
+2024-10-16 11:28:04,851 - INFO - Object detection completed and results saved for 12404.jpg.
+2024-10-16 11:28:04,852 - INFO - Starting object detection for 12405.jpg.
+2024-10-16 11:28:04,903 - INFO - Object detection completed and results saved for 12405.jpg.
+2024-10-16 11:28:04,903 - INFO - Starting object detection for 12406.jpg.
+2024-10-16 11:28:04,965 - INFO - Object detection completed and results saved for 12406.jpg.
+2024-10-16 11:28:04,965 - INFO - Starting object detection for 12407.jpg.
+2024-10-16 11:28:05,035 - INFO - Object detection completed and results saved for 12407.jpg.
+2024-10-16 11:28:05,036 - INFO - Starting object detection for 12408.jpg.
+2024-10-16 11:28:05,110 - INFO - Object detection completed and results saved for 12408.jpg.
+2024-10-16 11:28:05,110 - INFO - Starting object detection for 12409.jpg.
+2024-10-16 11:28:05,180 - INFO - Object detection completed and results saved for 12409.jpg.
+2024-10-16 11:28:05,180 - INFO - Starting object detection for 12410.jpg.
+2024-10-16 11:28:05,243 - INFO - Object detection completed and results saved for 12410.jpg.
+2024-10-16 11:28:05,243 - INFO - Starting object detection for 12411.jpg.
+2024-10-16 11:28:05,313 - INFO - Object detection completed and results saved for 12411.jpg.
+2024-10-16 11:28:05,314 - INFO - Starting object detection for 13.jpg.
+2024-10-16 11:28:05,383 - INFO - Object detection completed and results saved for 13.jpg.
+2024-10-16 11:28:05,383 - INFO - Starting object detection for 14.jpg.
+2024-10-16 11:28:05,448 - INFO - Object detection completed and results saved for 14.jpg.
+2024-10-16 11:28:05,449 - INFO - Starting object detection for 15.jpg.
+2024-10-16 11:28:05,517 - INFO - Object detection completed and results saved for 15.jpg.
+2024-10-16 11:28:05,517 - INFO - Starting object detection for 17.jpg.
+2024-10-16 11:28:05,586 - INFO - Object detection completed and results saved for 17.jpg.
+2024-10-16 11:28:05,586 - INFO - Starting object detection for 18.jpg.
+2024-10-16 11:28:05,676 - INFO - Object detection completed and results saved for 18.jpg.
+2024-10-16 11:28:05,676 - INFO - Starting object detection for 19.jpg.
+2024-10-16 11:28:05,748 - INFO - Object detection completed and results saved for 19.jpg.
+2024-10-16 11:28:05,748 - INFO - Starting object detection for 2.jpg.
+2024-10-16 11:28:05,820 - INFO - Object detection completed and results saved for 2.jpg.
+2024-10-16 11:28:05,820 - INFO - Starting object detection for 20.jpg.
+2024-10-16 11:28:05,885 - INFO - Object detection completed and results saved for 20.jpg.
+2024-10-16 11:28:05,885 - INFO - Starting object detection for 21.jpg.
+2024-10-16 11:28:05,942 - INFO - Object detection completed and results saved for 21.jpg.
+2024-10-16 11:28:05,943 - INFO - Starting object detection for 22.jpg.
+2024-10-16 11:28:06,007 - INFO - Object detection completed and results saved for 22.jpg.
+2024-10-16 11:28:06,007 - INFO - Starting object detection for 23.jpg.
+2024-10-16 11:28:06,066 - INFO - Object detection completed and results saved for 23.jpg.
+2024-10-16 11:28:06,066 - INFO - Starting object detection for 25.jpg.
+2024-10-16 11:28:06,125 - INFO - Object detection completed and results saved for 25.jpg.
+2024-10-16 11:28:06,126 - INFO - Starting object detection for 26.jpg.
+2024-10-16 11:28:06,184 - INFO - Object detection completed and results saved for 26.jpg.
+2024-10-16 11:28:06,184 - INFO - Starting object detection for 27.jpg.
+2024-10-16 11:28:06,240 - INFO - Object detection completed and results saved for 27.jpg.
+2024-10-16 11:28:06,240 - INFO - Starting object detection for 29.jpg.
+2024-10-16 11:28:06,328 - INFO - Object detection completed and results saved for 29.jpg.
+2024-10-16 11:28:06,329 - INFO - Starting object detection for 3.jpg.
+2024-10-16 11:28:06,386 - INFO - Object detection completed and results saved for 3.jpg.
+2024-10-16 11:28:06,386 - INFO - Starting object detection for 30.jpg.
+2024-10-16 11:28:06,452 - INFO - Object detection completed and results saved for 30.jpg.
+2024-10-16 11:28:06,452 - INFO - Starting object detection for 31.jpg.
+2024-10-16 11:28:06,524 - INFO - Object detection completed and results saved for 31.jpg.
+2024-10-16 11:28:06,524 - INFO - Starting object detection for 32.jpg.
+2024-10-16 11:28:06,583 - INFO - Object detection completed and results saved for 32.jpg.
+2024-10-16 11:28:06,583 - INFO - Starting object detection for 33.jpg.
+2024-10-16 11:28:06,647 - INFO - Object detection completed and results saved for 33.jpg.
+2024-10-16 11:28:06,648 - INFO - Starting object detection for 34.jpg.
+2024-10-16 11:28:06,718 - INFO - Object detection completed and results saved for 34.jpg.
+2024-10-16 11:28:06,719 - INFO - Starting object detection for 38.jpg.
+2024-10-16 11:28:06,776 - INFO - Object detection completed and results saved for 38.jpg.
+2024-10-16 11:28:06,776 - INFO - Starting object detection for 39.jpg.
+2024-10-16 11:28:06,840 - INFO - Object detection completed and results saved for 39.jpg.
+2024-10-16 11:28:06,840 - INFO - Starting object detection for 40.jpg.
+2024-10-16 11:28:06,901 - INFO - Object detection completed and results saved for 40.jpg.
+2024-10-16 11:28:06,902 - INFO - Starting object detection for 41.jpg.
+2024-10-16 11:28:06,965 - INFO - Object detection completed and results saved for 41.jpg.
+2024-10-16 11:28:06,965 - INFO - Starting object detection for 43.jpg.
+2024-10-16 11:28:07,022 - INFO - Object detection completed and results saved for 43.jpg.
+2024-10-16 11:28:07,023 - INFO - Starting object detection for 44.jpg.
+2024-10-16 11:28:07,076 - INFO - Object detection completed and results saved for 44.jpg.
+2024-10-16 11:28:07,076 - INFO - Starting object detection for 45.jpg.
+2024-10-16 11:28:07,131 - INFO - Object detection completed and results saved for 45.jpg.
+2024-10-16 11:28:07,132 - INFO - Starting object detection for 46.jpg.
+2024-10-16 11:28:07,187 - INFO - Object detection completed and results saved for 46.jpg.
+2024-10-16 11:28:07,187 - INFO - Starting object detection for 48.jpg.
+2024-10-16 11:28:07,251 - INFO - Object detection completed and results saved for 48.jpg.
+2024-10-16 11:28:07,251 - INFO - Starting object detection for 49.jpg.
+2024-10-16 11:28:07,318 - INFO - Object detection completed and results saved for 49.jpg.
+2024-10-16 11:28:07,318 - INFO - Starting object detection for 50.jpg.
+2024-10-16 11:28:07,374 - INFO - Object detection completed and results saved for 50.jpg.
+2024-10-16 11:28:07,374 - INFO - Starting object detection for 52.jpg.
+2024-10-16 11:28:07,442 - INFO - Object detection completed and results saved for 52.jpg.
+2024-10-16 11:28:07,443 - INFO - Starting object detection for 53.jpg.
+2024-10-16 11:28:07,500 - INFO - Object detection completed and results saved for 53.jpg.
+2024-10-16 11:28:07,501 - INFO - Starting object detection for 55.jpg.
+2024-10-16 11:28:07,555 - INFO - Object detection completed and results saved for 55.jpg.
+2024-10-16 11:28:07,556 - INFO - Starting object detection for 56.jpg.
+2024-10-16 11:28:07,616 - INFO - Object detection completed and results saved for 56.jpg.
+2024-10-16 11:28:07,617 - INFO - Starting object detection for 57.jpg.
+2024-10-16 11:28:07,677 - INFO - Object detection completed and results saved for 57.jpg.
+2024-10-16 11:28:07,678 - INFO - Starting object detection for 58.jpg.
+2024-10-16 11:28:07,733 - INFO - Object detection completed and results saved for 58.jpg.
+2024-10-16 11:28:07,733 - INFO - Starting object detection for 59.jpg.
+2024-10-16 11:28:07,793 - INFO - Object detection completed and results saved for 59.jpg.
+2024-10-16 11:28:07,794 - INFO - Starting object detection for 60.jpg.
+2024-10-16 11:28:07,853 - INFO - Object detection completed and results saved for 60.jpg.
+2024-10-16 11:28:07,854 - INFO - Starting object detection for 64.jpg.
+2024-10-16 11:28:07,912 - INFO - Object detection completed and results saved for 64.jpg.
+2024-10-16 11:28:07,912 - INFO - Starting object detection for 67.jpg.
+2024-10-16 11:28:07,965 - INFO - Object detection completed and results saved for 67.jpg.
+2024-10-16 11:28:07,966 - INFO - Starting object detection for 70.jpg.
+2024-10-16 11:28:08,021 - INFO - Object detection completed and results saved for 70.jpg.
+2024-10-16 11:28:08,021 - INFO - Starting object detection for 71.jpg.
+2024-10-16 11:28:08,076 - INFO - Object detection completed and results saved for 71.jpg.
+2024-10-16 11:28:08,076 - INFO - Starting object detection for 74.jpg.
+2024-10-16 11:28:08,131 - INFO - Object detection completed and results saved for 74.jpg.
+2024-10-16 11:28:08,131 - INFO - Starting object detection for 75.jpg.
+2024-10-16 11:28:08,183 - INFO - Object detection completed and results saved for 75.jpg.
+2024-10-16 11:28:08,183 - INFO - Starting object detection for 76.jpg.
+2024-10-16 11:28:08,247 - INFO - Object detection completed and results saved for 76.jpg.
+2024-10-16 11:28:08,248 - INFO - Starting object detection for 77.jpg.
+2024-10-16 11:28:08,314 - INFO - Object detection completed and results saved for 77.jpg.
+2024-10-16 11:28:08,314 - INFO - Starting object detection for 78.jpg.
+2024-10-16 11:28:08,377 - INFO - Object detection completed and results saved for 78.jpg.
+2024-10-16 11:28:08,377 - INFO - Starting object detection for 79.jpg.
+2024-10-16 11:28:08,436 - INFO - Object detection completed and results saved for 79.jpg.
+2024-10-16 11:28:08,436 - INFO - Starting object detection for 80.jpg.
+2024-10-16 11:28:08,502 - INFO - Object detection completed and results saved for 80.jpg.
+2024-10-16 11:28:08,502 - INFO - Starting object detection for 81.jpg.
+2024-10-16 11:28:08,574 - INFO - Object detection completed and results saved for 81.jpg.
+2024-10-16 11:28:08,574 - INFO - Starting object detection for 82.jpg.
+2024-10-16 11:28:08,635 - INFO - Object detection completed and results saved for 82.jpg.
+2024-10-16 11:28:08,635 - INFO - Starting object detection for 85.jpg.
+2024-10-16 11:28:08,694 - INFO - Object detection completed and results saved for 85.jpg.
+2024-10-16 11:28:08,694 - INFO - Starting object detection for 86.jpg.
+2024-10-16 11:28:08,758 - INFO - Object detection completed and results saved for 86.jpg.
+2024-10-16 11:28:08,758 - INFO - Starting object detection for 87.jpg.
+2024-10-16 11:28:08,809 - INFO - Object detection completed and results saved for 87.jpg.
+2024-10-16 11:28:08,809 - INFO - Starting object detection for 88.jpg.
+2024-10-16 11:28:08,876 - INFO - Object detection completed and results saved for 88.jpg.
+2024-10-16 11:28:08,876 - INFO - Starting object detection for 9.jpg.
+2024-10-16 11:28:08,948 - INFO - Object detection completed and results saved for 9.jpg.
+2024-10-16 11:28:08,949 - INFO - Starting object detection for 90.jpg.
+2024-10-16 11:28:09,014 - INFO - Object detection completed and results saved for 90.jpg.
+2024-10-16 11:28:09,014 - INFO - Starting object detection for 91.jpg.
+2024-10-16 11:28:09,073 - INFO - Object detection completed and results saved for 91.jpg.
+2024-10-16 11:28:09,074 - INFO - Starting object detection for 92.jpg.
+2024-10-16 11:28:09,135 - INFO - Object detection completed and results saved for 92.jpg.
+2024-10-16 11:28:09,135 - INFO - Starting object detection for 93.jpg.
+2024-10-16 11:28:09,213 - INFO - Object detection completed and results saved for 93.jpg.
+2024-10-16 11:28:09,214 - INFO - Starting object detection for 94.jpg.
+2024-10-16 11:28:09,286 - INFO - Object detection completed and results saved for 94.jpg.
+2024-10-16 11:28:09,286 - INFO - Starting object detection for 95.jpg.
+2024-10-16 11:28:09,360 - INFO - Object detection completed and results saved for 95.jpg.
+2024-10-16 11:28:09,360 - INFO - Starting object detection for 96.jpg.
+2024-10-16 11:28:09,422 - INFO - Object detection completed and results saved for 96.jpg.
+2024-10-16 11:28:09,423 - INFO - Starting object detection for 97.jpg.
+2024-10-16 11:28:09,483 - INFO - Object detection completed and results saved for 97.jpg.
+2024-10-16 11:28:09,484 - INFO - Completed object detection process for all images.
+2024-10-16 11:42:05,061 - INFO - Loading YOLOv5 model.
+2024-10-16 11:42:07,234 - INFO - YOLOv5 model loaded successfully.
+2024-10-16 11:42:07,239 - INFO - Starting object detection for 10.jpg.
+2024-10-16 19:14:34,765 - INFO - Training completed and model saved to labeled_yolov5_model.pt
+2024-10-16 19:21:27,747 - INFO - Training completed and model saved to labeled_yolov5_model.pt
+2024-10-17 08:41:27,520 - INFO - Training completed and model saved to labeled_yolov5_model.pt
+2024-10-17 12:16:13,968 - INFO - YOLOv5 training script started.
+2024-10-17 12:16:13,968 - INFO - Validating existence of training data directories...
+2024-10-17 12:16:13,970 - INFO - Training data directories verified.
+2024-10-17 12:16:13,970 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-10-17 12:16:13,970 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-10-17 12:16:13,971 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-10-17 12:16:13,971 - INFO - Starting YOLOv5 training...
+2024-10-17 12:16:13,971 - ERROR - Exception occurred while executing YOLOv5 training: name 'subprocess' is not defined
+2024-10-17 12:16:54,343 - INFO - YOLOv5 training script started.
+2024-10-17 12:16:54,343 - INFO - Validating existence of training data directories...
+2024-10-17 12:16:54,344 - INFO - Training data directories verified.
+2024-10-17 12:16:54,344 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-10-17 12:16:54,344 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-10-17 12:16:54,345 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-10-17 12:16:54,345 - INFO - Starting YOLOv5 training...
+2024-10-17 12:17:01,493 - INFO - YOLOv5 training command executed: ['python', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/train.py', '--img', '640', '--batch', '4', '--epochs', '30', '--data', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml', '--weights', 'yolov5s.pt', '--cache', '--device', '0']
+2024-10-17 12:17:01,494 - ERROR - YOLOv5 training failed with error: [34m[1mtrain: [0mweights=yolov5s.pt, cfg=, data=C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml, hyp=..\yolov5\data\hyps\hyp.scratch-low.yaml, epochs=30, batch_size=4, imgsz=640, rect=False, resume=False, nosave=False, noval=False, noautoanchor=False, noplots=False, evolve=None, evolve_population=..\yolov5\data\hyps, resume_evolve=None, bucket=, cache=ram, image_weights=False, device=0, multi_scale=False, single_cls=False, optimizer=SGD, sync_bn=False, workers=8, project=..\yolov5\runs\train, name=exp, exist_ok=False, quad=False, cos_lr=False, label_smoothing=0.0, patience=100, freeze=[0], save_period=-1, seed=0, local_rank=-1, entity=None, upload_dataset=False, bbox_interval=-1, artifact_alias=latest, ndjson_console=False, ndjson_file=False
+[34m[1mgithub: [0mup to date with https://github.com/ultralytics/yolov5 
+Traceback (most recent call last):
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\train.py", line 986, in <module>
+    main(opt)
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\train.py", line 672, in main
+    device = select_device(opt.device, batch_size=opt.batch_size)
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\utils\torch_utils.py", line 124, in select_device
+    assert torch.cuda.is_available() and torch.cuda.device_count() >= len(
+AssertionError: Invalid CUDA '--device 0' requested, use '--device cpu' or pass valid CUDA device(s)
+
+2024-10-18 09:18:15,902 - INFO - YOLOv5 training script started.
+2024-10-18 09:18:15,903 - INFO - Validating existence of training data directories...
+2024-10-18 09:18:15,903 - INFO - Training data directories verified.
+2024-10-18 09:18:15,903 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-10-18 09:18:15,903 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-10-18 09:18:15,903 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-10-18 09:18:15,903 - INFO - Starting YOLOv5 training...
+2024-10-18 09:18:18,085 - INFO - YOLOv5 training command executed: ['python', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/train.py', '--img', '640', '--batch', '4', '--epochs', '30', '--data', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml', '--weights', 'yolov5s.pt', '--cache', '--device', '0']
+2024-10-18 09:18:18,085 - ERROR - YOLOv5 training failed with error: Traceback (most recent call last):
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\train.py", line 39, in <module>
+    from tqdm import tqdm
+ModuleNotFoundError: No module named 'tqdm'
+
+2024-10-18 09:18:31,684 - INFO - YOLOv5 training script started.
+2024-10-18 09:18:31,684 - INFO - Validating existence of training data directories...
+2024-10-18 09:18:31,685 - INFO - Training data directories verified.
+2024-10-18 09:18:31,685 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-10-18 09:18:31,685 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-10-18 09:18:31,685 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-10-18 09:18:31,685 - INFO - Starting YOLOv5 training...
+2024-10-18 09:18:33,544 - INFO - YOLOv5 training command executed: ['python', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/train.py', '--img', '640', '--batch', '4', '--epochs', '30', '--data', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml', '--weights', 'yolov5s.pt', '--cache', '--device', '0']
+2024-10-18 09:18:33,544 - ERROR - YOLOv5 training failed with error: Traceback (most recent call last):
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\train.py", line 39, in <module>
+    from tqdm import tqdm
+ModuleNotFoundError: No module named 'tqdm'
+
+2024-10-18 09:28:14,697 - INFO - YOLOv5 training script started.
+2024-10-18 09:28:14,697 - INFO - Validating existence of training data directories...
+2024-10-18 09:28:14,697 - INFO - Training data directories verified.
+2024-10-18 09:28:14,697 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-10-18 09:28:14,697 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-10-18 09:28:14,697 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-10-18 09:28:14,697 - INFO - Starting YOLOv5 training...
+2024-10-18 09:28:16,708 - INFO - YOLOv5 training command executed: ['python', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/train.py', '--img', '640', '--batch', '4', '--epochs', '30', '--data', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml', '--weights', 'yolov5s.pt', '--cache', '--device', '0']
+2024-10-18 09:28:16,708 - ERROR - YOLOv5 training failed with error: Traceback (most recent call last):
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\train.py", line 39, in <module>
+    from tqdm import tqdm
+ModuleNotFoundError: No module named 'tqdm'
+
+2024-10-18 09:32:25,851 - INFO - YOLOv5 training script started.
+2024-10-18 09:32:25,851 - INFO - Validating existence of training data directories...
+2024-10-18 09:32:25,851 - INFO - Training data directories verified.
+2024-10-18 09:32:25,852 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-10-18 09:32:25,852 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-10-18 09:32:25,852 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-10-18 09:32:25,852 - INFO - Starting YOLOv5 training...
+2024-10-18 09:32:27,516 - INFO - YOLOv5 training command executed: ['python', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/train.py', '--img', '640', '--batch', '4', '--epochs', '30', '--data', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml', '--weights', 'yolov5s.pt', '--cache', '--device', '0']
+2024-10-18 09:32:27,516 - ERROR - YOLOv5 training failed with error: Traceback (most recent call last):
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\train.py", line 39, in <module>
+    from tqdm import tqdm
+ModuleNotFoundError: No module named 'tqdm'
+

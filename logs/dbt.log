@@ -513,3 +513,218 @@ drop table if exists "warehouse"."public"."transformed_data__dbt_backup" cascade
 [0m10:23:01.502867 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002498AA46E20>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002498D6CDC70>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002498DF851C0>]}
 [0m10:23:01.502867 [debug] [MainThread]: Flushing usage events
 [0m10:23:11.792990 [debug] [MainThread]: Error sending anonymous usage statistics. Disabling tracking for this execution. If you wish to permanently disable tracking, see: https://docs.getdbt.com/reference/global-configs#send-anonymous-usage-stats.
+[0m10:56:31.895694 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C56556E50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C590F9B80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C590F99D0>]}
+
+
+============================== 10:56:31.901747 | efda962f-122f-4def-beaf-d3bf3945ff48 ==============================
+[0m10:56:31.901747 [info ] [MainThread]: Running with dbt=1.8.2
+[0m10:56:31.903677 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\elbet\\.dbt', 'fail_fast': 'False', 'version_check': 'True', 'log_path': 'C:\\Users\\elbet\\OneDrive\\Desktop\\Ten\\week-7\\github\\Building-a-data-warehouse\\logs', 'debug': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'invocation_command': 'dbt test', 'introspect': 'True', 'log_format': 'default', 'target_path': 'None', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m10:56:32.054637 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': 'efda962f-122f-4def-beaf-d3bf3945ff48', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C590D8100>]}
+[0m10:56:32.093298 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': 'efda962f-122f-4def-beaf-d3bf3945ff48', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C56204460>]}
+[0m10:56:32.094337 [info ] [MainThread]: Registered adapter: postgres=1.8.2
+[0m10:56:32.101665 [debug] [MainThread]: checksum: f0a141b9de567cb7f131613ba2682f40b3a1c6a157f81c6e5435862eff68f109, vars: {}, profile: , target: , version: 1.8.2
+[0m10:56:32.235705 [debug] [MainThread]: Partial parsing enabled: 0 files deleted, 0 files added, 0 files changed.
+[0m10:56:32.235705 [debug] [MainThread]: Partial parsing enabled, no changes found, skipping parsing
+[0m10:56:32.254048 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': 'efda962f-122f-4def-beaf-d3bf3945ff48', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C594E0FA0>]}
+[0m10:56:32.329173 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': 'efda962f-122f-4def-beaf-d3bf3945ff48', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C5970F3A0>]}
+[0m10:56:32.329173 [info ] [MainThread]: Found 1 model, 423 macros
+[0m10:56:32.330188 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': 'efda962f-122f-4def-beaf-d3bf3945ff48', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C591DC8E0>]}
+[0m10:56:32.333170 [info ] [MainThread]: 
+[0m10:56:32.334173 [warn ] [MainThread]: Nothing to do. Try checking your model configs and model specification args
+[0m10:56:32.336159 [debug] [MainThread]: Command end result
+[0m10:56:32.354169 [debug] [MainThread]: Command `dbt test` succeeded at 10:56:32.353186 after 0.55 seconds
+[0m10:56:32.354169 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C56556E50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C58ADBA30>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C590894C0>]}
+[0m10:56:32.355102 [debug] [MainThread]: Flushing usage events
+[0m10:56:42.570558 [debug] [MainThread]: Error sending anonymous usage statistics. Disabling tracking for this execution. If you wish to permanently disable tracking, see: https://docs.getdbt.com/reference/global-configs#send-anonymous-usage-stats.
+[0m10:57:00.703988 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BFDC846D90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BFDF3E5370>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BFDF3E5520>]}
+
+
+============================== 10:57:00.706959 | a3da7987-878a-4c91-89f6-a48fb2d91552 ==============================
+[0m10:57:00.706959 [info ] [MainThread]: Running with dbt=1.8.2
+[0m10:57:00.707943 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'profiles_dir': 'C:\\Users\\elbet\\.dbt', 'log_path': 'C:\\Users\\elbet\\OneDrive\\Desktop\\Ten\\week-7\\github\\Building-a-data-warehouse\\logs', 'version_check': 'True', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'target_path': 'None', 'invocation_command': 'dbt docs generate', 'send_anonymous_usage_stats': 'True'}
+[0m10:57:00.853615 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': 'a3da7987-878a-4c91-89f6-a48fb2d91552', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BFDF4C89A0>]}
+[0m10:57:00.889627 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': 'a3da7987-878a-4c91-89f6-a48fb2d91552', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BFDF3B3C40>]}
+[0m10:57:00.890576 [info ] [MainThread]: Registered adapter: postgres=1.8.2
+[0m10:57:00.896724 [debug] [MainThread]: checksum: f0a141b9de567cb7f131613ba2682f40b3a1c6a157f81c6e5435862eff68f109, vars: {}, profile: , target: , version: 1.8.2
+[0m10:57:01.013661 [debug] [MainThread]: Partial parsing enabled: 0 files deleted, 0 files added, 0 files changed.
+[0m10:57:01.014727 [debug] [MainThread]: Partial parsing enabled, no changes found, skipping parsing
+[0m10:57:01.033710 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': 'a3da7987-878a-4c91-89f6-a48fb2d91552', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BFDF7D2EE0>]}
+[0m10:57:01.049710 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': 'a3da7987-878a-4c91-89f6-a48fb2d91552', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BFDF7FC1C0>]}
+[0m10:57:01.050717 [info ] [MainThread]: Found 1 model, 423 macros
+[0m10:57:01.050717 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': 'a3da7987-878a-4c91-89f6-a48fb2d91552', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BFDF7FC100>]}
+[0m10:57:01.051662 [info ] [MainThread]: 
+[0m10:57:01.052707 [debug] [MainThread]: Acquiring new postgres connection 'master'
+[0m10:57:01.053710 [debug] [ThreadPool]: Acquiring new postgres connection 'list_warehouse_public'
+[0m10:57:01.176160 [debug] [ThreadPool]: Using postgres connection "list_warehouse_public"
+[0m10:57:01.177152 [debug] [ThreadPool]: On list_warehouse_public: BEGIN
+[0m10:57:01.177152 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m10:57:01.212173 [debug] [ThreadPool]: SQL status: BEGIN in 0.035 seconds
+[0m10:57:01.213155 [debug] [ThreadPool]: Using postgres connection "list_warehouse_public"
+[0m10:57:01.213155 [debug] [ThreadPool]: On list_warehouse_public: /* {"app": "dbt", "dbt_version": "1.8.2", "profile_name": "building_warehouse", "target_name": "dev", "connection_name": "list_warehouse_public"} */
+select
+      'warehouse' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'public'
+    union all
+    select
+      'warehouse' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'public'
+    union all
+    select
+      'warehouse' as database,
+      matviewname as name,
+      schemaname as schema,
+      'materialized_view' as type
+    from pg_matviews
+    where schemaname ilike 'public'
+  
+[0m10:57:01.218108 [debug] [ThreadPool]: SQL status: SELECT 8 in 0.004 seconds
+[0m10:57:01.219110 [debug] [ThreadPool]: On list_warehouse_public: ROLLBACK
+[0m10:57:01.219110 [debug] [ThreadPool]: On list_warehouse_public: Close
+[0m10:57:01.223114 [debug] [MainThread]: Using postgres connection "master"
+[0m10:57:01.224115 [debug] [MainThread]: On master: BEGIN
+[0m10:57:01.224115 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m10:57:01.250107 [debug] [MainThread]: SQL status: BEGIN in 0.026 seconds
+[0m10:57:01.250107 [debug] [MainThread]: Using postgres connection "master"
+[0m10:57:01.251118 [debug] [MainThread]: On master: /* {"app": "dbt", "dbt_version": "1.8.2", "profile_name": "building_warehouse", "target_name": "dev", "connection_name": "master"} */
+with relation as (
+        select
+            pg_rewrite.ev_class as class,
+            pg_rewrite.oid as id
+        from pg_rewrite
+    ),
+    class as (
+        select
+            oid as id,
+            relname as name,
+            relnamespace as schema,
+            relkind as kind
+        from pg_class
+    ),
+    dependency as (
+        select distinct
+            pg_depend.objid as id,
+            pg_depend.refobjid as ref
+        from pg_depend
+    ),
+    schema as (
+        select
+            pg_namespace.oid as id,
+            pg_namespace.nspname as name
+        from pg_namespace
+        where nspname != 'information_schema' and nspname not like 'pg\_%'
+    ),
+    referenced as (
+        select
+            relation.id AS id,
+            referenced_class.name ,
+            referenced_class.schema ,
+            referenced_class.kind
+        from relation
+        join class as referenced_class on relation.class=referenced_class.id
+        where referenced_class.kind in ('r', 'v', 'm')
+    ),
+    relationships as (
+        select
+            referenced.name as referenced_name,
+            referenced.schema as referenced_schema_id,
+            dependent_class.name as dependent_name,
+            dependent_class.schema as dependent_schema_id,
+            referenced.kind as kind
+        from referenced
+        join dependency on referenced.id=dependency.id
+        join class as dependent_class on dependency.ref=dependent_class.id
+        where
+            (referenced.name != dependent_class.name or
+             referenced.schema != dependent_class.schema)
+    )
+
+    select
+        referenced_schema.name as referenced_schema,
+        relationships.referenced_name as referenced_name,
+        dependent_schema.name as dependent_schema,
+        relationships.dependent_name as dependent_name
+    from relationships
+    join schema as dependent_schema on relationships.dependent_schema_id=dependent_schema.id
+    join schema as referenced_schema on relationships.referenced_schema_id=referenced_schema.id
+    group by referenced_schema, referenced_name, dependent_schema, dependent_name
+    order by referenced_schema, referenced_name, dependent_schema, dependent_name;
+[0m10:57:01.256152 [debug] [MainThread]: SQL status: SELECT 1 in 0.005 seconds
+[0m10:57:01.257156 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': 'a3da7987-878a-4c91-89f6-a48fb2d91552', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BFDF80F880>]}
+[0m10:57:01.258110 [debug] [MainThread]: On master: ROLLBACK
+[0m10:57:01.258110 [debug] [MainThread]: On master: Close
+[0m10:57:01.259114 [info ] [MainThread]: Concurrency: 1 threads (target='dev')
+[0m10:57:01.259114 [info ] [MainThread]: 
+[0m10:57:01.262490 [debug] [Thread-1  ]: Began running node model.building_warehouse.transformed_data
+[0m10:57:01.262490 [debug] [Thread-1  ]: Acquiring new postgres connection 'model.building_warehouse.transformed_data'
+[0m10:57:01.263488 [debug] [Thread-1  ]: Began compiling node model.building_warehouse.transformed_data
+[0m10:57:01.268528 [debug] [Thread-1  ]: Writing injected SQL for node "model.building_warehouse.transformed_data"
+[0m10:57:01.269556 [debug] [Thread-1  ]: Began executing node model.building_warehouse.transformed_data
+[0m10:57:01.269556 [debug] [Thread-1  ]: Finished running node model.building_warehouse.transformed_data
+[0m10:57:01.270483 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m10:57:01.271483 [debug] [MainThread]: Connection 'list_warehouse_public' was properly closed.
+[0m10:57:01.271483 [debug] [MainThread]: Connection 'model.building_warehouse.transformed_data' was properly closed.
+[0m10:57:01.271483 [debug] [MainThread]: Command end result
+[0m10:57:01.326483 [debug] [MainThread]: Acquiring new postgres connection 'generate_catalog'
+[0m10:57:01.326483 [info ] [MainThread]: Building catalog
+[0m10:57:01.336978 [debug] [ThreadPool]: Acquiring new postgres connection 'warehouse.information_schema'
+[0m10:57:01.343611 [debug] [ThreadPool]: Using postgres connection "warehouse.information_schema"
+[0m10:57:01.343611 [debug] [ThreadPool]: On warehouse.information_schema: BEGIN
+[0m10:57:01.344565 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m10:57:01.371712 [debug] [ThreadPool]: SQL status: BEGIN in 0.027 seconds
+[0m10:57:01.371712 [debug] [ThreadPool]: Using postgres connection "warehouse.information_schema"
+[0m10:57:01.371712 [debug] [ThreadPool]: On warehouse.information_schema: /* {"app": "dbt", "dbt_version": "1.8.2", "profile_name": "building_warehouse", "target_name": "dev", "connection_name": "warehouse.information_schema"} */
+
+    
+    
+
+    select
+        'warehouse' as table_database,
+        sch.nspname as table_schema,
+        tbl.relname as table_name,
+        case tbl.relkind
+            when 'v' then 'VIEW'
+            when 'm' then 'MATERIALIZED VIEW'
+            else 'BASE TABLE'
+        end as table_type,
+        tbl_desc.description as table_comment,
+        col.attname as column_name,
+        col.attnum as column_index,
+        pg_catalog.format_type(col.atttypid, col.atttypmod) as column_type,
+        col_desc.description as column_comment,
+        pg_get_userbyid(tbl.relowner) as table_owner
+
+    from pg_catalog.pg_namespace sch
+    join pg_catalog.pg_class tbl on tbl.relnamespace = sch.oid
+    join pg_catalog.pg_attribute col on col.attrelid = tbl.oid
+    left outer join pg_catalog.pg_description tbl_desc on (tbl_desc.objoid = tbl.oid and tbl_desc.objsubid = 0)
+    left outer join pg_catalog.pg_description col_desc on (col_desc.objoid = tbl.oid and col_desc.objsubid = col.attnum)
+    where ((upper(sch.nspname) = upper('public') and
+           upper(tbl.relname) = upper('transformed_data')))
+      and not pg_is_other_temp_schema(sch.oid) -- not a temporary schema belonging to another session
+      and tbl.relpersistence in ('p', 'u') -- [p]ermanent table or [u]nlogged table. Exclude [t]emporary tables
+      and tbl.relkind in ('r', 'v', 'f', 'p', 'm') -- o[r]dinary table, [v]iew, [f]oreign table, [p]artitioned table, [m]aterialized view. Other values are [i]ndex, [S]equence, [c]omposite type, [t]OAST table
+      and col.attnum > 0 -- negative numbers are used for system columns such as oid
+      and not col.attisdropped -- column as not been dropped
+
+    order by
+        sch.nspname,
+        tbl.relname,
+        col.attnum
+[0m10:57:01.377715 [debug] [ThreadPool]: SQL status: SELECT 5 in 0.005 seconds
+[0m10:57:01.381713 [debug] [ThreadPool]: On warehouse.information_schema: ROLLBACK
+[0m10:57:01.382709 [debug] [ThreadPool]: On warehouse.information_schema: Close
+[0m10:57:01.430157 [info ] [MainThread]: Catalog written to C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\target\catalog.json
+[0m10:57:01.432155 [debug] [MainThread]: Command `dbt docs generate` succeeded at 10:57:01.432155 after 0.81 seconds
+[0m10:57:01.432155 [debug] [MainThread]: Connection 'generate_catalog' was properly closed.
+[0m10:57:01.433154 [debug] [MainThread]: Connection 'warehouse.information_schema' was properly closed.
+[0m10:57:01.433154 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BFDC846D90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BFDF54B5E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BFDF54B2B0>]}
+[0m10:57:01.433154 [debug] [MainThread]: Flushing usage events
+[0m10:57:11.453545 [debug] [MainThread]: Error sending anonymous usage statistics. Disabling tracking for this execution. If you wish to permanently disable tracking, see: https://docs.getdbt.com/reference/global-configs#send-anonymous-usage-stats.
