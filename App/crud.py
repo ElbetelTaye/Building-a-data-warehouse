@@ -1,12 +1,14 @@
-# crud.py
 from sqlalchemy.orm import Session
-from . import models, schemas
+from models import TelegramMessage
+from schemas import TelegramMessageCreate
 
 def get_messages(db: Session, skip: int = 0, limit: int = 10):
-    return db.query(models.TelegramMessage).offset(skip).limit(limit).all()
+    """Retrieve messages from the database"""
+    return db.query(TelegramMessage).offset(skip).limit(limit).all()
 
-def create_message(db: Session, message: schemas.TelegramMessageCreate):
-    db_message = models.TelegramMessage(**message.dict())
+def create_message(db: Session, message: TelegramMessageCreate):
+    """Create a new message in the database"""
+    db_message = TelegramMessage(**message.dict())
     db.add(db_message)
     db.commit()
     db.refresh(db_message)

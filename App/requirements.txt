@@ -1,4 +1,4 @@
-fastapi
-uvicorn 
-sqlalchemy 
+Flask
+SQLAlchemy
+pydantic
 psycopg2-binary
