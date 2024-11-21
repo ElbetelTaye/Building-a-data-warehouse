@@ -1224,3 +1224,202 @@ ModuleNotFoundError: No module named 'tqdm'
     from tqdm import tqdm
 ModuleNotFoundError: No module named 'tqdm'
 
+2024-11-17 12:01:27,013 - INFO - YOLOv5 training script started.
+2024-11-17 12:01:27,013 - INFO - Validating existence of training data directories...
+2024-11-17 12:01:27,014 - INFO - Training data directories verified.
+2024-11-17 12:01:27,014 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-11-17 12:01:27,014 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-11-17 12:01:27,015 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-11-17 12:01:27,015 - INFO - Starting YOLOv5 training...
+2024-11-17 12:06:38,718 - INFO - YOLOv5 training command executed: ['python', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/train.py', '--img', '640', '--batch', '4', '--epochs', '30', '--data', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml', '--weights', 'yolov5s.pt', '--cache', '--device', '0']
+2024-11-17 12:06:38,718 - INFO - YOLOv5 training completed successfully.
+2024-11-17 12:06:38,718 - INFO - Training output: WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+
+2024-11-17 12:06:38,718 - INFO - Scanning for experiment folders in C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/runs/train...
+2024-11-17 12:06:38,719 - INFO - Latest experiment folder identified: exp7
+2024-11-17 12:06:38,719 - INFO - Checking for best.pt or last.pt model weights...
+2024-11-17 12:06:38,719 - INFO - Found best.pt at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/runs/train\exp7\weights\best.pt. Renaming to C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/notebooks/labeledyolov5.pt
+2024-11-17 12:06:38,719 - INFO - Overwriting existing weights file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/notebooks/labeledyolov5.pt
+2024-11-17 12:06:38,722 - INFO - Best weights saved to C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/notebooks/labeledyolov5.pt
+2024-11-17 12:06:38,722 - INFO - YOLOv5 training script completed.
+2024-11-17 15:45:04,126 - INFO - YOLOv5 training script started.
+2024-11-17 15:45:04,126 - INFO - Validating existence of training data directories...
+2024-11-17 15:45:04,126 - INFO - Training data directories verified.
+2024-11-17 15:45:04,127 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-11-17 15:45:04,127 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-11-17 15:45:04,127 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-11-17 15:45:04,127 - INFO - Starting YOLOv5 training...
+2024-11-17 15:45:06,199 - INFO - YOLOv5 training command executed: ['python', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/train.py', '--img', '640', '--batch', '4', '--epochs', '30', '--data', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml', '--weights', 'yolov5s.pt', '--cache', '--device', '0']
+2024-11-17 15:45:06,199 - ERROR - YOLOv5 training failed with error: 
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\train.py", line 47, in <module>
+    import val as validate  # for end-of-epoch mAP
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\val.py", line 39, in <module>
+    from models.common import DetectMultiBackend
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\models\common.py", line 18, in <module>
+    import pandas as pd
+  File "c:\Users\elbet\miniconda3\envs\elbetel\lib\site-packages\pandas\__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "c:\Users\elbet\miniconda3\envs\elbetel\lib\site-packages\pandas\core\api.py", line 1, in <module>
+    from pandas._libs import (
+  File "c:\Users\elbet\miniconda3\envs\elbetel\lib\site-packages\pandas\_libs\__init__.py", line 17, in <module>
+    import pandas._libs.pandas_datetime  # noqa: F401 # isort: skip # type: ignore[reportUnusedImport]
+AttributeError: _ARRAY_API not found
+Traceback (most recent call last):
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\train.py", line 47, in <module>
+    import val as validate  # for end-of-epoch mAP
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\val.py", line 39, in <module>
+    from models.common import DetectMultiBackend
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\models\common.py", line 18, in <module>
+    import pandas as pd
+  File "c:\Users\elbet\miniconda3\envs\elbetel\lib\site-packages\pandas\__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "c:\Users\elbet\miniconda3\envs\elbetel\lib\site-packages\pandas\core\api.py", line 1, in <module>
+    from pandas._libs import (
+  File "c:\Users\elbet\miniconda3\envs\elbetel\lib\site-packages\pandas\_libs\__init__.py", line 17, in <module>
+    import pandas._libs.pandas_datetime  # noqa: F401 # isort: skip # type: ignore[reportUnusedImport]
+ImportError: numpy.core.multiarray failed to import
+
+2024-11-17 15:46:21,886 - INFO - YOLOv5 training script started.
+2024-11-17 15:46:21,886 - INFO - Validating existence of training data directories...
+2024-11-17 15:46:21,888 - INFO - Training data directories verified.
+2024-11-17 15:46:21,888 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-11-17 15:46:21,888 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-11-17 15:46:21,888 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-11-17 15:46:21,896 - INFO - data.yaml file includes train, val, and test paths.
+2024-11-17 15:46:21,896 - INFO - Starting YOLOv5 training...
+2024-11-17 15:46:23,701 - INFO - YOLOv5 training command executed: ['python', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/train.py', '--img', '640', '--batch', '4', '--epochs', '30', '--data', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml', '--weights', 'yolov5s.pt', '--cache', '--device', '0']
+2024-11-17 15:46:23,701 - ERROR - YOLOv5 training failed with error: 
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.0.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\train.py", line 47, in <module>
+    import val as validate  # for end-of-epoch mAP
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\val.py", line 39, in <module>
+    from models.common import DetectMultiBackend
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\models\common.py", line 18, in <module>
+    import pandas as pd
+  File "c:\Users\elbet\miniconda3\envs\elbetel\lib\site-packages\pandas\__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "c:\Users\elbet\miniconda3\envs\elbetel\lib\site-packages\pandas\core\api.py", line 1, in <module>
+    from pandas._libs import (
+  File "c:\Users\elbet\miniconda3\envs\elbetel\lib\site-packages\pandas\_libs\__init__.py", line 17, in <module>
+    import pandas._libs.pandas_datetime  # noqa: F401 # isort: skip # type: ignore[reportUnusedImport]
+AttributeError: _ARRAY_API not found
+Traceback (most recent call last):
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\train.py", line 47, in <module>
+    import val as validate  # for end-of-epoch mAP
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\val.py", line 39, in <module>
+    from models.common import DetectMultiBackend
+  File "C:\Users\elbet\OneDrive\Desktop\Ten\week-7\github\Building-a-data-warehouse\yolov5\models\common.py", line 18, in <module>
+    import pandas as pd
+  File "c:\Users\elbet\miniconda3\envs\elbetel\lib\site-packages\pandas\__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "c:\Users\elbet\miniconda3\envs\elbetel\lib\site-packages\pandas\core\api.py", line 1, in <module>
+    from pandas._libs import (
+  File "c:\Users\elbet\miniconda3\envs\elbetel\lib\site-packages\pandas\_libs\__init__.py", line 17, in <module>
+    import pandas._libs.pandas_datetime  # noqa: F401 # isort: skip # type: ignore[reportUnusedImport]
+ImportError: numpy.core.multiarray failed to import
+
+2024-11-17 15:50:22,747 - INFO - YOLOv5 training script started.
+2024-11-17 15:50:22,747 - INFO - Validating existence of training data directories...
+2024-11-17 15:50:22,748 - INFO - Training data directories verified.
+2024-11-17 15:50:22,748 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-11-17 15:50:22,748 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-11-17 15:50:22,749 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-11-17 15:50:22,749 - INFO - Starting YOLOv5 training...
+2024-11-17 15:55:01,441 - INFO - YOLOv5 training command executed: ['python', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/train.py', '--img', '640', '--batch', '4', '--epochs', '30', '--data', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml', '--weights', 'yolov5s.pt', '--cache', '--device', '0']
+2024-11-17 15:55:01,441 - INFO - YOLOv5 training completed successfully.
+2024-11-17 15:55:01,441 - INFO - Training output: WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+
+2024-11-17 15:55:01,441 - INFO - Scanning for experiment folders in C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/runs/train...
+2024-11-17 15:55:01,442 - INFO - Latest experiment folder identified: exp9
+2024-11-17 15:55:01,442 - INFO - Checking for best.pt or last.pt model weights...
+2024-11-17 15:55:01,442 - INFO - Found best.pt at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/runs/train\exp9\weights\best.pt. Renaming to C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/notebooks/labeledyolov5.pt
+2024-11-17 15:55:01,442 - INFO - Overwriting existing weights file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/notebooks/labeledyolov5.pt
+2024-11-17 15:55:01,444 - INFO - Best weights saved to C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/notebooks/labeledyolov5.pt
+2024-11-17 15:55:01,444 - INFO - YOLOv5 training script completed.
+2024-11-21 20:46:41,177 - INFO - YOLOv5 training script started.
+2024-11-21 20:46:41,178 - INFO - Validating existence of training data directories...
+2024-11-21 20:46:41,178 - INFO - Training data directories verified.
+2024-11-21 20:46:41,178 - INFO - Training parameters - Epochs: 30, Batch Size: 4, Image Size: 640
+2024-11-21 20:46:41,178 - INFO - Checking existence of data.yaml file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml...
+2024-11-21 20:46:41,178 - INFO - data.yaml file found at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml
+2024-11-21 20:46:41,178 - INFO - Starting YOLOv5 training...
+2024-11-21 20:49:56,552 - INFO - YOLOv5 training command executed: ['python', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/train.py', '--img', '640', '--batch', '4', '--epochs', '30', '--data', 'C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/medical_business_data/data.yaml', '--weights', 'yolov5s.pt', '--cache', '--device', '0']
+2024-11-21 20:49:56,552 - INFO - YOLOv5 training completed successfully.
+2024-11-21 20:49:56,552 - INFO - Training output: WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.20 is currently installed 
+
+2024-11-21 20:49:56,552 - INFO - Scanning for experiment folders in C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/runs/train...
+2024-11-21 20:49:56,552 - INFO - Latest experiment folder identified: exp10
+2024-11-21 20:49:56,553 - INFO - Checking for best.pt or last.pt model weights...
+2024-11-21 20:49:56,553 - INFO - Found best.pt at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/yolov5/runs/train\exp10\weights\best.pt. Renaming to C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/notebooks/labeledyolov5.pt
+2024-11-21 20:49:56,553 - INFO - Overwriting existing weights file at C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/notebooks/labeledyolov5.pt
+2024-11-21 20:49:56,554 - INFO - Best weights saved to C:/Users/elbet/OneDrive/Desktop/Ten/week-7/github/Building-a-data-warehouse/notebooks/labeledyolov5.pt
+2024-11-21 20:49:56,555 - INFO - YOLOv5 training script completed.
