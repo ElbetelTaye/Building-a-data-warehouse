@@ -5,3 +5,10 @@ scrapped_json_files/
 logs/
 target/
 medical_business_data/
+notebooks/labeledyolov5.pt
+notebooks/yolov5s.pt 
+notebooks/labeledyolov8.pt
+notebooks/yolo11n.pt
+notebooks/yolov8s.pt
+notebooks/runs/
+notebooks/labeledyolov5.pt
